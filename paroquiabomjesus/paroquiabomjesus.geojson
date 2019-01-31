@@ -19,6 +19,25 @@
           -24.099307010475624
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "color": "#804000",
+        "icon": "church",
+        "Name": "Capela de Santa Gertrudes",
+        "Description": "Padroeira: Santa Gertrudes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.39445888996124,
+          -24.067620470030622
+        ]
+      }
     }
   ]
 }
