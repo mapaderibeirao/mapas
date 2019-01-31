@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "color": "#804000",
+        "icon": "church",
+        "Name": "Igreja Matriz Bom Jesus",
+        "Description": "padroeiro: Bom Jesus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.36551249027252,
+          -24.099307010475624
+        ]
+      }
+    }
+  ]
+}
