@@ -1,0 +1,39 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "landmark",
+                "name": "Casa Grande",
+                "description": "..",
+                "color": "#804000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37182503280,
+                    -24.10880386481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "tree",
+                "name": "Parque Estadual Intervales",
+                "description": "..",
+                "color": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41243078633,
+                    -24.26404035149
+                ]
+            }
+        }
+    ]
+}
