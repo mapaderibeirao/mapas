@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua Joaquim Silvério Ferreira, 385, Centro<br>\nContato: 15 99652-4605<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "icon": "bed",
+                "name": "CHÁCARA DO JUAREZ",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36841762350,
+                    -24.09938709966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua João Genésio Ferreira, 200, Cruzes<br>\nContato: 15 99607-1244<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "icon": "bed",
+                "name": "CHÁCARA LAFANT",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37871331263,
+                    -24.11052154221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "SP-181, Km 11,8<br>\nContato: 15 99608-8426<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "icon": "bed",
+                "name": "SÍTIO DO BRELO",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35784121770,
+                    -24.11299623632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Avenida Paulino Ferreira de Assumpção, 580, Nunes<br>\nContato: 15 99703-4040<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "icon": "bed",
+                "name": "CHÁCARA DO CAMILO",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37165384251,
+                    -24.09857493636
+                ]
+            }
+        }
+    ]
+}
