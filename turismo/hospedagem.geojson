@@ -1,3 +1,4 @@
+
 {
     "type": "FeatureCollection",
     "generator": "JOSM",
@@ -5,10 +6,74 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Rua Joaquim Silvério Ferreira, 385, Centro<br>\nContato: 15 99652-4605<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "description": "Cruzes<br>\nContato: 15 99615-9764<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37830793058,
+                    -24.11231779198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua Joaquim Vitorino de Proença, 159, Centro<br>\nContato: 15 99664-3596<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "QUIOSQUE DO JOKA",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36354455195,
+                    -24.09763950263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Avenida Cesário Pedroso da Costa , Bairro Capoeira Alta<br>\nContato: 15 99630-4788<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO MARCELO NUNES",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39598799845,
+                    -24.12604204937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "SP-181, Km 15<br>\nContato: 15 99639-5320<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO LAURO",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36359050905,
+                    -24.13597358653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua Joaquim Silvério Ferreira, 385, Centro<br>\nContato: 15 99652-4605<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
                 "icon": "bed",
                 "name": "CHÁCARA DO JUAREZ",
-                "color": "blue"
+                "color": "#0066ff"
             },
             "geometry": {
                 "type": "Point",
@@ -21,26 +86,170 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Rua João Genésio Ferreira, 200, Cruzes<br>\nContato: 15 99607-1244<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "description": "Rua João Batista Brisolla, 15, Centro<br>\nContato: 15 3544-1191<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
                 "icon": "bed",
-                "name": "CHÁCARA LAFANT",
-                "color": "blue"
+                "name": "POUSADA BRISOLLA",
+                "color": "#0066ff"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37871331263,
-                    -24.11052154221
+                    -48.36615277369,
+                    -24.09959294388
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "SP-181, Km 11,8<br>\nContato: 15 99608-8426<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "description": "Avenida Paulino Ferreira de Assumpção, 540, Nunes<br>\nContato: 15 99797-4864<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA RECANTO ADONAI",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37141356123,
+                    -24.09881781671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bairro Barro Branco<br>\nContato: 15 99713-6211<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "ESTÂNCIA ANDRADE",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35957920374,
+                    -24.18167600436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Avenida Paulino Ferreira de Assumpção, 580, Nunes<br>\nContato: 15 99703-4040<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO CAMILO",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37165384251,
+                    -24.09857493636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bairro da Lagoa<br>\nContato: 15 99779-2164 / 99632-8461<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA TUZZI",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.33999476011,
+                    -24.12980377287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bairro dos Cruzes<br>\nContato: 15 99834-5817 / 99770-5882<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "SÍTIO BELA VISTA",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37675758864,
+                    -24.11176166800
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "SP-181, Km 12<br>\nContato: 15 99803-8721<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO ALCIDES",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35670108995,
+                    -24.11528422188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bairro Urucuva<br>\nContato: 15 99641-9533<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA OLGA",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35621791157,
+                    -24.11584073010
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rodovia Padre Arlindo Vieira Km 1,5, Jurubatuba<br>\nContato: 15 99766-8278<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA PÔR DO SOL",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37725992115,
+                    -24.09232147549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Cruzes<br>\nContato: 15 99850-6541<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DA NÁGILA",
+                "color": "#0066ff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37818050610,
+                    -24.11150408950
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "SP-181, Km 11,8<br>\nContato: 15 99608-8426<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
                 "icon": "bed",
                 "name": "SÍTIO DO BRELO",
-                "color": "blue"
+                "color": "#0066ff"
             },
             "geometry": {
                 "type": "Point",
@@ -53,16 +262,16 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Avenida Paulino Ferreira de Assumpção, 580, Nunes<br>\nContato: 15 99703-4040<br>\nÉ próprietário desta chácara? Atualize suas informações gratuitamente. Cotanto: <a href=\"https://wp.me/P8DR6g-4\">https://wp.me/P8DR6g-4</a><br> ou procure a Coordenadoria de Turismo.",
+                "description": "Rua João Genésio Ferreira, 200, Cruzes<br>\nContato: 15 99607-1244<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
                 "icon": "bed",
-                "name": "CHÁCARA DO CAMILO",
-                "color": "blue"
+                "name": "CHÁCARA LAFANT",
+                "color": "#0066ff"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37165384251,
-                    -24.09857493636
+                    -48.37871331263,
+                    -24.11052154221
                 ]
             }
         }
