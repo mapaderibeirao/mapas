@@ -22,8 +22,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "<img src=\"\">\n<br>Mirante com estátua do Cristo Redentor. Vista panorâmica de toda cidade e região.",
-                "icon": "streetview",
+                "description": "Mirante com estátua do Cristo Redentor. Vista panorâmica de toda cidade e região.",
+                "icon": "street-view",
                 "name": "Mirante do Cristo",
                 "color": "orange"
             },
@@ -38,10 +38,11 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "<img src=\"img/casa-grande.jpg\">\n<br>Recém-tombada como patrimônio estadual de São Paulo.<br>\nConstrução de taipa datada aproximadamente de 1780. Destaca-se como exemplo de arquitetura colonial, cujas paredes eram feitas de vigas de madeira e argila socada com as mãos, forma típica de construção durante os séculos XVIII e XIX. <a href=\"https://wp.me/p8DR6g-vZ\">Saiba mais</a>",
+                "description": "Recém-tombada como patrimônio estadual de São Paulo.<br>\nConstrução de taipa datada aproximadamente de 1780. Destaca-se como exemplo de arquitetura colonial, cujas paredes eram feitas de vigas de madeira e argila socada com as mãos, forma típica de construção durante os séculos XVIII e XIX. <a href=\"https://wp.me/p8DR6g-vZ\">Saiba mais</a>",
                 "icon": "landmark",
                 "name": "Casa Grande",
-                "color": "orange"
+                "color": "orange",
+                "img": "casa-grande"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +55,11 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "<img src=\"img/pei.jpg\">\n<br>Localizado em um dos mais importantes sítios arqueológicos de São Paulo e em uma região entre as mais antigas da história da colonização do País. Rico em grutas e cavernas ecahoeiras. Ideal para observação de pássaros. O número já ultrapassa 420 avesregistradas. São encontradas também mais de 700 espécies de invertebrados, 49 de peixes, 101 de anfíbios, 44 de répteis, e 121 de mamíferos.  <a href=\"https://wp.me/p8DR6g-EM\">Saiba mais</a>",
+                "description": "Localizado em um dos mais importantes sítios arqueológicos de São Paulo e em uma região entre as mais antigas da história da colonização do País. Rico em grutas e cavernas ecahoeiras. Ideal para observação de pássaros. O número já ultrapassa 420 avesregistradas. São encontradas também mais de 700 espécies de invertebrados, 49 de peixes, 101 de anfíbios, 44 de répteis, e 121 de mamíferos.  <a href=\"https://wp.me/p8DR6g-EM\">Saiba mais</a>",
                 "icon": "tree",
                 "name": "Parque Estadual Intervales",
-                "color": "green"
+                "color": "green",
+                "img": "pei"
             },
             "geometry": {
                 "type": "Point",
