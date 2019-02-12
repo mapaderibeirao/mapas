@@ -6,183 +6,7 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Cruzes<br>\nContato: 15 99615-9764<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37830793058,
-                    -24.11231779198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Rua Joaquim Vitorino de Proença, 159, Centro<br>\nContato: 15 99664-3596<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "QUIOSQUE DO JOKA",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36354455195,
-                    -24.09763950263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Avenida Cesário Pedroso da Costa , Bairro Capoeira Alta<br>\nContato: 15 99630-4788<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA DO MARCELO NUNES",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39598799845,
-                    -24.12604204937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "SP-181, Km 15<br>\nContato: 15 99639-5320<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA DO LAURO",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36359050905,
-                    -24.13597358653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Rua Joaquim Silvério Ferreira, 385, Centro<br>\nContato: 15 99652-4605<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA DO JUAREZ",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36841762350,
-                    -24.09938709966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Rua João Batista Brisolla, 15, Centro<br>\nContato: 15 3544-1191<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "POUSADA BRISOLLA",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36615277369,
-                    -24.09959294388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Avenida Paulino Ferreira de Assumpção, 540, Nunes<br>\nContato: 15 99797-4864<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA RECANTO ADONAI",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37141356123,
-                    -24.09881781671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Bairro Barro Branco<br>\nContato: 15 99713-6211<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "ESTÂNCIA ANDRADE",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.35957920374,
-                    -24.18167600436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Avenida Paulino Ferreira de Assumpção, 580, Nunes<br>\nContato: 15 99703-4040<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA DO CAMILO",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37165384251,
-                    -24.09857493636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Bairro da Lagoa<br>\nContato: 15 99779-2164 / 99632-8461<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA TUZZI",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.33999476011,
-                    -24.12980377287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Bairro dos Cruzes<br>\nContato: 15 99834-5817 / 99770-5882<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "SÍTIO BELA VISTA",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37675758864,
-                    -24.11176166800
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "SP-181, Km 12<br>\nContato: 15 99803-8721<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "description": "SP-181, Km 12<br>\nContato: 15 99803-8721<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
                 "icon": "bed",
                 "name": "CHÁCARA DO ALCIDES",
                 "color": "blue"
@@ -198,39 +22,23 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Bairro Urucuva<br>\nContato: 15 99641-9533<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "description": "Rua Joaquim Vitorino de Proença, 159, Centro<br>\nContato: 15 99664-3596<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
                 "icon": "bed",
-                "name": "CHÁCARA OLGA",
+                "name": "QUIOSQUE DO JOKA",
                 "color": "blue"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.35621791157,
-                    -24.11584073010
+                    -48.36354455195,
+                    -24.09763950263
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Rodovia Padre Arlindo Vieira Km 1,5, Jurubatuba<br>\nContato: 15 99766-8278<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
-                "icon": "bed",
-                "name": "CHÁCARA PÔR DO SOL",
-                "color": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37725992115,
-                    -24.09232147549
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Cruzes<br>\nContato: 15 99850-6541<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "description": "Cruzes<br>\nContato: 15 99850-6541<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
                 "icon": "bed",
                 "name": "CHÁCARA DA NÁGILA",
                 "color": "blue"
@@ -246,7 +54,183 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "SP-181, Km 11,8<br>\nContato: 15 99608-8426<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "description": "Bairro Barro Branco<br>\nContato: 15 99713-6211<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "ESTÂNCIA ANDRADE",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35957920374,
+                    -24.18167600436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Cruzes<br>\nContato: 15 99615-9764<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37830793058,
+                    -24.11231779198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bairro da Lagoa<br>\nContato: 15 99779-2164 / 99632-8461<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA TUZZI",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.33999476011,
+                    -24.12980377287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bairro Urucuva<br>\nContato: 15 99641-9533<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA OLGA",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35621791157,
+                    -24.11584073010
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rodovia Padre Arlindo Vieira Km 1,5, Jurubatuba<br>\nContato: 15 99766-8278<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA PÔR DO SOL",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37725992115,
+                    -24.09232147549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua Joaquim Silvério Ferreira, 385, Centro<br>\nContato: 15 99652-4605<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO JUAREZ",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36841762350,
+                    -24.09938709966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua João Genésio Ferreira, 200, Cruzes<br>\nContato: 15 99607-1244<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA LAFANT",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37871331263,
+                    -24.11052154221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Avenida Paulino Ferreira de Assumpção, 540, Nunes<br>\nContato: 15 99797-4864<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA RECANTO ADONAI",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37141356123,
+                    -24.09881781671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Avenida Cesário Pedroso da Costa , Bairro Capoeira Alta<br>\nContato: 15 99630-4788<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO MARCELO NUNES",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39598799845,
+                    -24.12604204937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Avenida Paulino Ferreira de Assumpção, 580, Nunes<br>\nContato: 15 99703-4040<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO CAMILO",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37165384251,
+                    -24.09857493636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "SP-181, Km 15<br>\nContato: 15 99639-5320<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "CHÁCARA DO LAURO",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36359050905,
+                    -24.13597358653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "SP-181, Km 11,8<br>\nContato: 15 99608-8426<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
                 "icon": "bed",
                 "name": "SÍTIO DO BRELO",
                 "color": "blue"
@@ -262,16 +246,32 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Rua João Genésio Ferreira, 200, Cruzes<br>\nContato: 15 99607-1244<br>\nÉ próprietário? Atualize suas informações gratuitamente <a href=\"https://wp.me/P8DR6g-TY\">clicando aqui</a>",
+                "description": "Bairro dos Cruzes<br>\nContato: 15 99834-5817 / 99770-5882<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
                 "icon": "bed",
-                "name": "CHÁCARA LAFANT",
+                "name": "SÍTIO BELA VISTA",
                 "color": "blue"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37871331263,
-                    -24.11052154221
+                    -48.37675758864,
+                    -24.11176166800
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Rua João Batista Brisolla, 15, Centro<br>\nContato: 15 3544-1191<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "POUSADA BRISOLLA",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36615277369,
+                    -24.09959294388
                 ]
             }
         }
