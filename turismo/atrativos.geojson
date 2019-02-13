@@ -5,6 +5,23 @@
         {
             "type": "Feature",
             "properties": {
+                "description": "Delicioso prato típico local a base de carne suína e farinha de milho. Pode ser encontrado na Casa de Carnes Balaio.\n<br><a href=\"https://wp.me/p8DR6g-g5\">Saiba mais</a>",
+                "icon": "utensils",
+                "name": "Rojão",
+                "color": "red",
+                "img": "rojao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36556167623,
+                    -24.09960039246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "description": "Mirante com estátua do Cristo Redentor. Vista panorâmica de toda cidade e região.",
                 "icon": "street-view",
                 "name": "Mirante do Cristo",
