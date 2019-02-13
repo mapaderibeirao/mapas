@@ -6,8 +6,76 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Ambiente para para toda família.\nLanches, Porções, Drinks, Açaí<br>\nTelefones: <a href=\"tel:15997344950\">15997344950</a> ou <a href=\"tel:15996708200\">15996708200</a>\n",
+                "description": "Rua Joaquim Amantino Ferreira, 235, Centro.\nComida Caseira – Bolos – Pizzas – Doces – Salgados - Self-service – prato feito – marmitex. Aceita encomendas.<br>\nHorário de Atendimento: Segunda – Sábado, das 8h30 – 21h, Domingo das 8h – 15h.\n<br>\n<a href=\"facebook.com/paradabonita\">Página no Facebook</a> / Telefone: <a href=\"tel:1535441353\">15 3544-1353</a> ou <a href=\"tel:15996824542\">15 99682-4542</a>\n",
                 "icon": "utensils",
+                "name": "Parada Bonita\nRestaurante e Lanchonete",
+                "color": "orange",
+                "img": "aeb-parada-bonita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36618751215,
+                    -24.10171692894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Endereço: Praça Bom Jesus, 110, Centro.\n<br>\n<a href=\"facebook.com//Padaria-Sagrada-Família-Brisolla-531176357005002/\">Página no Facebook</a> / Telefones: <a href=\"tel:1535441104\">15 3544-1104</a> ou <a href=\"tel:15997386094\">15 99738-6094</a>\n",
+                "icon": "coffee",
+                "name": "Padaria, Confeitaria e Lanchonete Sagrada Família Brisolla",
+                "color": "orange",
+                "img": "aeb-padaria-brisolla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36603122148,
+                    -24.09966055265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Localizado no Parque Estadual Intervales.\nPratos típicos, sorvete de fabricação própria, artesanato.\n<br>\n<a href=\"https://www.facebook.com/parofrestaurante/\">Página no Facebook</a> / Telefone: <a href=\"tel:15997291539\">15 99729-1539</a>\n",
+                "icon": "utensils",
+                "name": "PAROF Restaurante",
+                "color": "orange",
+                "img": "aeb-parof-intervales"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41002553727,
+                    -24.26714805726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Endereço: Rua Joaquim Silvério Ferreira, 323, Centro.\n<br>\n<a href=\"https://www.facebook.com/Lanchonete-Ponto-Chic-611756378927599/\">Página no Facebook</a> / Telefone: <a href=\"tel:15997412449\">15 99741-2449</a>\n",
+                "icon": "utensils",
+                "name": "Ponto Chic",
+                "color": "orange",
+                "img": "aeb-pontochic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36762875763,
+                    -24.09977776143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Ambiente para para toda família.\nLanches, Porções, Drinks, Açaí<br>\n<a href=\"https://www.facebook.com/Sacurs-768057453593538/\">Página no Facebook</a> / Telefones: <a href=\"tel:15997344950\">15997344950</a> ou <a href=\"tel:15996708200\">15996708200</a>\n",
+                "icon": "hamburger",
                 "name": "Sacur’s Lanchonete",
                 "color": "orange",
                 "img": "aeb-sacurs"
@@ -17,6 +85,23 @@
                 "coordinates": [
                     -48.36559573128,
                     -24.09909471196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Praça Bom Jesus, 59, Centro.\nPratos típicos, sorvete de fabricação própria, artesanato.\n<br>\n<a href=\"facebook.com/Sorveteria-e-Lanchonete-PAROF-1417453228471719/\">Página no Facebook</a> / Telefone: <a href=\"tel:1535441181\">15 3544-1181</a> ou <a href=\"tel:15997619258\">15 99761-9258</a>\n",
+                "icon": "utensils",
+                "name": "PAROF Restaurante, Sorveteria e Lanchonete",
+                "color": "orange",
+                "img": "aeb-parof"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36569717280,
+                    -24.09917275515
                 ]
             }
         }
