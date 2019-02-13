@@ -1,4 +1,23 @@
+
 {
     "type": "FeatureCollection",
-    "features": []
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Ambiente para para toda família.\nLanches, Porções, Drinks, Açaí<br>\nTelefones: <a href=\"tel:15997344950\">15997344950</a> ou <a href=\"tel:15996708200\">15996708200</a>\n",
+                "icon": "utensils",
+                "name": "Sacur’s Lanchonete",
+                "color": "orange"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36559573128,
+                    -24.09909471196
+                ]
+            }
+        }
+    ]
 }
