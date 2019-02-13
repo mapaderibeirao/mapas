@@ -25,7 +25,8 @@
                 "description": "Mirante com estátua do Cristo Redentor. Vista panorâmica de toda cidade e região.",
                 "icon": "street-view",
                 "name": "Mirante do Cristo",
-                "color": "orange"
+                "color": "orange",
+                "img": "cristo"
             },
             "geometry": {
                 "type": "Point",
