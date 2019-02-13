@@ -18,6 +18,23 @@
                     -24.10061097385
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Realizado geralmente em maio, o evento é organizado pela Paróquia Bom Jesus e á atualmente um dos maiores da cidade. <a href=\"https://mapaderibeiraograndesp.wordpress.com/tag/festa-do-milho/\">Saiba mais</a>",
+                "icon": "calendar-alt",
+                "name": "Festa do Milho",
+                "color": "purple",
+                "img": "evento-festa-milho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36469013351,
+                    -24.09928536433
+                ]
+            }
         }
     ]
 }
