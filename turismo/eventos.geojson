@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Evento que combina prática de vôo livre com festival bandas de rock e praça de lazer e alimentação. Pode ocorrer em diferentes épocas a cada ano. <a href=\"https://wp.me/p8DR6g-U0\">Saiba mais</a>",
+                "icon": "parachute-box",
+                "name": "Rock Fly",
+                "color": "purple",
+                "img": "rock-fly"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.31520157019,
+                    -24.10061097385
+                ]
+            }
+        }
+    ]
+}
