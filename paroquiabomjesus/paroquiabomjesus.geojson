@@ -1,43 +1,92 @@
+
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#804000",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "color": "#804000",
-        "icon": "church",
-        "Name": "Igreja Matriz Bom Jesus",
-        "Description": "padroeiro: Bom Jesus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.36551249027252,
-          -24.099307010475624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "color": "#804000",
-        "icon": "church",
-        "Name": "Capela de Santa Gertrudes",
-        "Description": "Padroeira: Santa Gertrudes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.39445888996124,
-          -24.067620470030622
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<b>Missas:</b> Geralmente ao terceiro domingo, às 16h<br>\n<b>Celebrações:</b> Todos os domingos às ?<br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/nossa-senhora-da-conceicao-aparecida-padroeira-do-brasil/\">Nossa Senhora da Conceição Aparecida - Padroeira do Brasil</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/nsra-aparecida.jpg\"><br>\n<b>Celebração da padroeira:</b> 12 de outubro, em forma de novena com quermesse.",
+                "name": "Capela Nossa Senhora Aparecida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36763876356,
+                    -24.13228347857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<b>Missas:</b> Quinta-feira: 19h30, Sexta-feira: 19h30, Domingo: 8h00 e 19h00<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0608-transfiguracao-do-senhor/\">Bom Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/bom-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 6 de agosto, dia da Transfiguração do Senhor, em forma de novena com quermesse.",
+                "name": "Igreja Matriz Bom Jesus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36548835826,
+                    -24.09931332717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<b>Missas:</b> Geralmente no terceiro domingo às 10h<br>\n<b>Celebrações:</b> Todos os domingos às 8h 30<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/natal-do-senhor-celebracao-do-nascimento-de-jesus-cristo/\">Menino Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/menino-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 25 de dezembro, Natal do Senhor, em forma de novena com quermesse.",
+                "name": "Capela do Menino Jesus",
+                "img": "capela-menino-jesus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.32745819251,
+                    -24.12294414550
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<b>Missas:</b> Geralmente na última terça às 19h 30<br>\n<b>Celebrações:</b> Todos os domingos às ?<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-francisco-de-assis-o-santo-que-desposou-a-pobreza/\">São Francisco de Assis</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-francisco.jpg\"><br>\n<b>Celebração do padroeiro:</b> 4 de outubro, em forma de novena com quermesse.",
+                "name": "Capela de São Francisco de Assis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.38294786793,
+                    -24.16086777891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Paróquia Bom Jesus de Ribeirão Grande - Diocese de Itapeva\nPraça Bom Jesus, 110<br>\nemail: mdiribeirao@bol.com.br<br>\nTelefone: <a href=\"tel:1535441200\">15 3544-1200</a><br>\nPároco: Padre Edson Lopes de Barros<br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/secretaria-paroquial.jpg\">",
+                "name": "Secretaria Paroquial"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36505374136,
+                    -24.09901999723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<b>Missas:</b> Geralmente no último sábado, às 19h 30<br>\n<b>Celebrações:</b> Todos os domingos às ?<br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-joaquim-e-santana-pais-de-nossa-senhora/\">Sant' Ana</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/santana.jpg\"><br>\n<b>Celebração da padroeira:</b> 26 de julho, em forma de novena com quermesse.",
+                "name": "Igreja de Sant' Ana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37164165638,
+                    -24.11020591664
+                ]
+            }
+        }
+    ]
 }
