@@ -73,7 +73,8 @@
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no terceiro domingo às 10h<br>\n<b>Celebrações:</b> Todos os domingos às 8h 30<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/natal-do-senhor-celebracao-do-nascimento-de-jesus-cristo/\">Menino Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/menino-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 25 de dezembro, Natal do Senhor, em forma de novena com quermesse.",
                 "name": "Capela do Menino Jesus",
-                "icon": "cross"
+                "icon": "cross",
+				"img": "capela-menino-jesus"
             },
             "geometry": {
                 "type": "Point",
