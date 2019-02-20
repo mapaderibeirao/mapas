@@ -168,7 +168,7 @@
             "properties": {
                 "color": "orange",
                 "description": "Paróquia Bom Jesus de Ribeirão Grande - Diocese de Itapeva - Praça Bom Jesus, 110<br>\nemail: mdiribeirao@bol.com.br /  Telefone: <a href=\"tel:1535441200\">15 3544-1200</a>/ <a href=\"https://www.facebook.com/Par%C3%B3quia-Bom-Jesus-Ribeir%C3%A3o-Grande-1644965765828770/\">Facebook</a> <br>\nPároco: Padre Edson Lopes de Barros<br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/secretaria-paroquial.jpg\"><br>\nExpediente paroquial: Segunda - sexta, das 9h – 11h30 e das 13h30 – 17h30. Atendimento do padre, para confissão ou direção espiritual: Quarta e quinta-feira, de manhã das 9h – 11h30 a tarde das 13h30 – 16h30.\n\n<a target=\"_blank\" href=\"https://mapaderibeiraograndesp.wordpress.com/tag/paroquia-bom-jesus/\">Veja mais sobre a Paróquia Bom Jesus</a>",
-                "icon": "folder-plus",
+                "icon": "paperclip",
                 "name": "Secretaria Paroquial"
             },
             "geometry": {
