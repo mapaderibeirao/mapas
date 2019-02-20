@@ -10,7 +10,8 @@
                 "description": "Setor Ferreira dos Matos",
                 "color": "red",
                 "fillColor": "#f03",
-                "fillOpacity": "0.5"
+                "fillOpacity": "0.5",
+                "fill": "true"
             },
             "geometry": {
                 "type": "LineString",
@@ -925,7 +926,8 @@
                 "description": "Setor Cruzes",
                 "fillOpacity": "0.5",
                 "fillColor": "#ff8633",
-                "color": "#ff8633"
+                "color": "#ff8633",
+                "fill": "true"
             },
             "geometry": {
                 "type": "LineString",
@@ -1292,7 +1294,8 @@
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.5",
-                "description": "Setor Centro"
+                "description": "Setor Centro",
+                "fill": "true"
             },
             "geometry": {
                 "type": "LineString",
