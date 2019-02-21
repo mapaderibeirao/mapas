@@ -123,7 +123,8 @@
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no último sábado, às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-joaquim-e-santana-pais-de-nossa-senhora/\">Sant' Ana</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/santana.jpg\"><br>\n<b>Celebração da padroeira:</b> 26 de julho, em forma de novena com quermesse.",
                 "name": "Comunidade Sant' Ana",
-                "icon": "cross"
+                "icon": "cross",
+				"img": "igreja-santana"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +140,8 @@
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente primeiro sábado, às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://pt.aleteia.org/2018/11/16/santa-gertrudes-padroeira-dos-misticos/\">Santa Gertrudes</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/santa-gertrudes.jpg\"><br>\n<b>Celebração da padroeira:</b> 16 de novembro, em forma de novena",
                 "name": "Comunidade Santa Gertrudes",
-                "icon": "cross"
+                "icon": "cross",
+				"img": "capela-santa-gertrudes"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +301,8 @@
                 "color": "red",
                 "description": "<b>Missas:</b> Quinta-feira: 19h30, Sexta-feira: 19h30, Domingo: 8h00 e 19h00<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0608-transfiguracao-do-senhor/\">Bom Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/bom-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 6 de agosto, dia da Transfiguração do Senhor, em forma de novena com quermesse.\n<a target=\"_blank\"  href=\"https://mapaderibeiraograndesp.wordpress.com/tag/paroquia-bom-jesus/\">Veja mais sobre a Paróquia Bom Jesus</a>",
                 "name": "Comunidade Matriz Bom Jesus",
-                "icon": "cross"
+                "icon": "cross",
+				"img": "matriz-bom-jesus"
             },
             "geometry": {
                 "type": "Point",
