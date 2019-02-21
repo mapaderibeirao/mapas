@@ -8,7 +8,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente ao terceiro domingo, às 16h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/nossa-senhora-da-conceicao-aparecida-padroeira-do-brasil/\">Nossa Senhora da Conceição Aparecida - Padroeira do Brasil</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/nsra-aparecida.jpg\"><br>\n<b>Celebração da padroeira:</b> 12 de outubro, em forma de novena com quermesse.",
-                "name": "Capela Nossa Senhora Aparecida",
+                "name": "Comunidade Nossa Senhora Aparecida",
                 "icon": "cross"
             },
             "geometry": {
@@ -30,7 +30,7 @@
                 ]
             },
             "properties": {
-                "name": "Capela de São Benedito",
+                "name": "Comunidade São Benedito",
                 "icon": "cross",
 				"color": "red",
                 "description": "<b>Missas:</b> Geralmente na última quarta às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0510-sao-benedito/\">São Benedito</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-benedito.jpg\"><br>\n<b>Celebração do padroeiro:</b> 5 de outubro, em forma de novena com quermesse."
@@ -57,7 +57,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no primeiro domingo às 15h<br>\n<b>Celebrações:</b><br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-simao-e-sao-judas-tadeu-colunas-da-verdade-do-reino/\">São Judas Tadeu</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-judas.jpg\"><br>\n<b>Celebração do padroeiro:</b> 28 de outubro, em forma de novena com quermesse.",
-                "name": "Capela de São Judas Tadeu",
+                "name": "Comunidade São Judas Tadeu",
                 "icon": "cross"
             },
             "geometry": {
@@ -73,7 +73,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na terceira quarta às 19h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/8-coisas-que-talvez-nao-sabia-sobre-sao-caetano-santo-tao-querido-pelo-papa-francisco/\">São Caetano</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-caetano.jpg\"><br>\n<b>Celebração do padroeiro:</b> 7 de agosto, em forma de novena com quermesse.",
-                "name": "Capela de São Caetano",
+                "name": "Comunidade São Caetano",
                 "icon": "cross"
             },
             "geometry": {
@@ -89,7 +89,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no terceiro domingo às 10h<br>\n<b>Celebrações:</b> Todos os domingos às 8h 30<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/natal-do-senhor-celebracao-do-nascimento-de-jesus-cristo/\">Menino Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/menino-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 25 de dezembro, Natal do Senhor, em forma de novena com quermesse.",
-                "name": "Capela do Menino Jesus",
+                "name": "Comunidade do Menino Jesus",
                 "icon": "cross",
 				"img": "capela-menino-jesus"
             },
@@ -106,7 +106,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na terceira terça, às 18h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://cruzterrasanta.com.br/historia-de-nossa-senhora-da-penha/28/102/#c\">Nossa Senhora da Penha</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/nsra-penha.jpg\"><br>\n<b>Celebração da padroeira:</b> 8 de setembro, em forma de novena",
-                "name": "Capela Nossa Senhora da Penha",
+                "name": "Comunidade Nossa Senhora da Penha",
                 "icon": "cross"
             },
             "geometry": {
@@ -122,7 +122,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no último sábado, às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-joaquim-e-santana-pais-de-nossa-senhora/\">Sant' Ana</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/santana.jpg\"><br>\n<b>Celebração da padroeira:</b> 26 de julho, em forma de novena com quermesse.",
-                "name": "Igreja de Sant' Ana",
+                "name": "Comunidade Sant' Ana",
                 "icon": "cross"
             },
             "geometry": {
@@ -138,7 +138,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente primeiro sábado, às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://pt.aleteia.org/2018/11/16/santa-gertrudes-padroeira-dos-misticos/\">Santa Gertrudes</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/santa-gertrudes.jpg\"><br>\n<b>Celebração da padroeira:</b> 16 de novembro, em forma de novena",
-                "name": "Igreja Santa Gertrudes",
+                "name": "Comunidade Santa Gertrudes",
                 "icon": "cross"
             },
             "geometry": {
@@ -154,7 +154,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente primeiro sábado, às 18h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/santa-rita-de-cassia-conhecida-como-santa-dos-impossiveis/\">Santa Rita de Cássia</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/santa-rita.jpg\"><br>\n<b>Celebração da padroeira:</b> 22 de maio, em forma de novena",
-                "name": "Capela de Santa Rita",
+                "name": "Comunidade Santa Rita",
                 "icon": "cross"
             },
             "geometry": {
@@ -170,7 +170,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na última terça às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-francisco-de-assis-o-santo-que-desposou-a-pobreza/\">São Francisco de Assis</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-francisco.jpg\"><br>\n<b>Celebração do padroeiro:</b> 4 de outubro, em forma de novena com quermesse.",
-                "name": "Capela de São Francisco de Assis",
+                "name": "Comunidade São Francisco de Assis",
                 "icon": "cross"
             },
             "geometry": {
@@ -202,7 +202,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na primeira quarta às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://pt.wikipedia.org/wiki/Roque_de_Montpellier\">São Roque</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-roque.jpg\"><br>\n<b>Celebração do padroeiro:</b> 16 de agosto, em forma de novena com quermesse.",
-                "name": "Capela de São Roque",
+                "name": "Comunidade São Roque",
                 "icon": "cross"
             },
             "geometry": {
@@ -218,7 +218,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no segundo domingo às 10h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://pt.wikipedia.org/wiki/Roque_de_Montpellier\">São Roque</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-roque.jpg\"><br>\n<b>Celebração do padroeiro:</b> 16 de agosto, em forma de novena com quermesse.",
-                "name": "Igreja de São Roque",
+                "name": "Comunidade São Roque",
                 "icon": "cross"
             },
             "geometry": {
@@ -233,8 +233,8 @@
             "type": "Feature",
             "properties": {
                 "color": "red",
-                "description": "<b>Missas:</b> Geralmente no segundo sábado às 18h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-pedro-e-sao-paulo-apostolos-principais-lideres-da-igreja-crista/\">São Pedro</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-pedro.jpg\"><br>\n<b>Celebração do padroeiro:</b> 29 de junho, em forma de novena com quermesse.",
-                "name": "Capela de São Pedro",
+                "description": "<b>Missas:</b> Geralmente no segundo sábado às 18h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-pedro-e-sao-paulo-apostolos-principais-lideres-da-Comunidade-crista/\">São Pedro</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-pedro.jpg\"><br>\n<b>Celebração do padroeiro:</b> 29 de junho, em forma de novena com quermesse.",
+                "name": "Comunidade São Pedro",
                 "icon": "cross"
             },
             "geometry": {
@@ -250,7 +250,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente aos sábados, às 18h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0608-transfiguracao-do-senhor/\">Bom Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/bom-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 6 de agosto, dia da Transfiguração do Senhor, em forma de novena com quermesse.",
-                "name": "Capela do Bom Jesus",
+                "name": "Comunidade do Bom Jesus",
                 "icon": "cross"
             },
             "geometry": {
@@ -266,7 +266,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente no último domingo, às 10h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/nossa-senhora-de-fatima-graca-e-misericordia/\">Nossa Senhora de Fátima</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/nsra-fatima.jpg\"><br>\n<b>Celebração da padroeira:</b> 13 de maio, em forma de novena com quermesse.",
-                "name": "Capela Nossa Senhora de Fátima",
+                "name": "Comunidade Nossa Senhora de Fátima",
                 "icon": "cross"
             },
             "geometry": {
@@ -282,7 +282,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente última sexta às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-simao-e-sao-judas-tadeu-colunas-da-verdade-do-reino/\">São Judas Tadeu</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-judas.jpg\"><br>\n<b>Celebração do padroeiro:</b> 28 de outubro, em forma de novena com quermesse.",
-                "name": "Igreja de São Judas Tadeu",
+                "name": "Comunidade São Judas Tadeu",
                 "icon": "cross"
             },
             "geometry": {
@@ -298,7 +298,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Quinta-feira: 19h30, Sexta-feira: 19h30, Domingo: 8h00 e 19h00<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0608-transfiguracao-do-senhor/\">Bom Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/bom-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 6 de agosto, dia da Transfiguração do Senhor, em forma de novena com quermesse.\n<a target=\"_blank\"  href=\"https://mapaderibeiraograndesp.wordpress.com/tag/paroquia-bom-jesus/\">Veja mais sobre a Paróquia Bom Jesus</a>",
-                "name": "Igreja Matriz Bom Jesus",
+                "name": "Comunidade Matriz Bom Jesus",
                 "icon": "cross"
             },
             "geometry": {
@@ -314,7 +314,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na última terça às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-francisco-de-assis-o-santo-que-desposou-a-pobreza/\">São Francisco de Assis</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-francisco.jpg\"><br>\n<b>Celebração do padroeiro:</b> 4 de outubro, em forma de novena com quermesse.",
-                "name": "Capela de São Francisco de Assis",
+                "name": "Comunidade São Francisco de Assis",
                 "icon": "cross"
             },
             "geometry": {
@@ -330,7 +330,7 @@
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na terceira terça, às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sagrada-familia/\">Sagrada Família de Nazaré</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sagrada-familia.jpg\"><br>\n<b>Celebração da padroeira:</b> 30 de dezembro, em forma de novena",
-                "name": "Capela Sagrada Família",
+                "name": "Comunidade Sagrada Família",
                 "icon": "cross"
             },
             "geometry": {
