@@ -302,7 +302,7 @@
                 "description": "<b>Missas:</b> Quinta-feira: 19h30, Sexta-feira: 19h30, Domingo: 8h00 e 19h00<br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0608-transfiguracao-do-senhor/\">Bom Jesus</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/bom-jesus.jpg\"><br>\n<b>Celebração do padroeiro:</b> 6 de agosto, dia da Transfiguração do Senhor, em forma de novena com quermesse.\n<a target=\"_blank\"  href=\"https://mapaderibeiraograndesp.wordpress.com/tag/paroquia-bom-jesus/\">Veja mais sobre a Paróquia Bom Jesus</a>",
                 "name": "Comunidade Matriz Bom Jesus",
                 "icon": "cross",
-				"img": "matriz-bom-jesus"
+		"img": "igreja-matriz-bom-jesus"
             },
             "geometry": {
                 "type": "Point",
