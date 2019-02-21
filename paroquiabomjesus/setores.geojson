@@ -10,8 +10,7 @@
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.5",
                 "name": "Área Urbana",
-                "description": "Perímetro da área urbana",
-                "fill": "false"
+                "description": "Perímetro da área urbana"
             },
             "geometry": {
                 "type": "LineString",
@@ -603,7 +602,6 @@
             "type": "Feature",
             "properties": {
                 "name": "Limite Municipal",
-                "fill": "false",
                 "description": "Limite de Ribeirão Grande",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
