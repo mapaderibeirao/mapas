@@ -21,6 +21,23 @@
         },
         {
             "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41254328150445,
+                    -24.12758748545973,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Capela de São Benedito",
+                "icon": "cross",
+				"color": "red",
+                "description": "<b>Missas:</b> Geralmente na última quarta às 19h 30<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://cleofas.com.br/0510-sao-benedito/\">São Benedito</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-benedito.jpg\"><br>\n<b>Celebração do padroeiro:</b> 5 de outubro, em forma de novena com quermesse."
+            }
+        },	    
+        {
+            "type": "Feature",
             "properties": {
                 "color": "red",
                 "description": "<b>Missas:</b> Geralmente na terceira quarta às 19h<br>\n<b>Celebrações:</b> <br>\n<b>Padroeiro:</b> <a target=\"_blank\" href=\"https://santo.cancaonova.com/santo/sao-jose-protetor-da-sagrada-familia/\">São José</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/sao-jose.jpg\"><br>\n<b>Celebração do padroeiro:</b> 19 de março, em forma de novena com quermesse.",
