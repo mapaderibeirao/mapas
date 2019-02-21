@@ -1,0 +1,23 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<b>Missas:</b> <br>\n<b>Celebrações:</b> <br>\n<b>Padroeira:</b> <a target=\"_blank\" href=\"https://www.a12.com/academia/artigos/nossa-senhora-da-ajuda-1\">Nossa Senhora da Ajuda</a><br>\n<img src=\"https://raw.githubusercontent.com/mapaderibeirao/mapas/master/paroquiabomjesus/img/nsra-ajuda.jpg\"><br>\n<b>Celebração da padroeira:</b> geralmente na segunda semana de setembro, em forma de novena com romaria partindo da Matriz Bom Jesus e quermesse. <a target=\"_blnak\" href=\"https://wp.me/p8DR6g-R7\">Saiba mais</a>",
+                "icon": "church",
+                "name": "Santuário Diocesano Nossa Senhora da Ajuda",
+                "color": "darkblue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.45496244167,
+                    -24.21089444467
+                ]
+            }
+        }
+    ]
+}
