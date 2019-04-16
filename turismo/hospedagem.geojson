@@ -19,6 +19,22 @@
                 ]
             }
         },
+        { 
+            "type": "Feature",
+            "properties": {
+                "description": "Rua Maria Madalena, Bairro Boa Vista<br>\nContato: 15 99801-3018<br>\nAtualize as informações ou relate erros <a target=\"_blank\" href=\"https://wp.me/P8DR6g-TY\">aqui</a>",
+                "icon": "bed",
+                "name": "Pousada do Jairo Boa Vista",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4229750,
+                    -24.2282444
+                ]
+            }
+        },        
         {
             "type": "Feature",
             "properties": {
