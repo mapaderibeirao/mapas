@@ -15569,7 +15569,7 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b> <br>Código IBGE: 3543253<br><img src=\"img/rg.png\">",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3543253<br><img src=\"\"><div class=\"mrg-button\"><a href=\"https://mapaderibeiraograndesp.wordpress.com/category/encontre-no-mapa/atrativos/\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
