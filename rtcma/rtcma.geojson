@@ -1,3 +1,4 @@
+
 {
     "type": "FeatureCollection",
     "generator": "JOSM",
@@ -10,7 +11,7 @@
                 "ibge": "3521200",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
@@ -9486,7 +9487,7 @@
                 "ibge": "3522158",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
@@ -11890,7 +11891,7 @@
                 "ibge": "3514809",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
@@ -23834,7 +23835,7 @@
                 "ibge": "3505401",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
@@ -28906,7 +28907,7 @@
                 "ibge": "3524600",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
@@ -34990,7 +34991,7 @@
                 "ibge": "3543253",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
@@ -40238,7 +40239,7 @@
                 "ibge": "3502705",
                 "color": "#ffc933",
                 "fillColor": "#ffc933",
-                "fillOpacity": "1"
+                "fillOpacity": "0"
             },
             "geometry": {
                 "type": "LineString",
