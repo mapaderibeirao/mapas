@@ -7,12 +7,13 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b>\n<br>Código IBGE: 3524600",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3524600<div class=\"mrg-button\"><a href=\"http://www.jacupiranga.sp.gov.br\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
                 "ibge": "3524600",
-                "name": "Jacupiranga"
+                "name": "Jacupiranga",
+                "img": "jc"
             },
             "geometry": {
                 "type": "LineString",
@@ -6092,12 +6093,13 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b>\n<br>Código IBGE: 3521200",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3521200<div class=\"mrg-button\"><a href=\"http://iporanga.sp.gov.br\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
                 "ibge": "3521200",
-                "name": "Iporanga"
+                "name": "Iporanga",
+                "img": "ip"
             },
             "geometry": {
                 "type": "LineString",
@@ -15569,7 +15571,7 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b> <br>Código IBGE: 3543253<br><img src=\"\"><div class=\"mrg-button\"><a href=\"https://mapaderibeiraograndesp.wordpress.com/category/encontre-no-mapa/atrativos/\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div>",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3543253<br><div class=\"mrg-button\"><a href=\"https://mapaderibeiraograndesp.wordpress.com/category/encontre-no-mapa/atrativos/\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
@@ -20819,12 +20821,13 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b>\n<br>Código IBGE: 3514809",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3514809<div class=\"mrg-button\"><a href=\"https://www.eldorado.sp.gov.br/\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
                 "ibge": "3514809",
-                "name": "Eldorado"
+                "name": "Eldorado",
+                "img": "el"
             },
             "geometry": {
                 "type": "LineString",
@@ -32764,12 +32767,13 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b>\n<br>Código IBGE: 3522158",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3522158<div class=\"mrg-button\"><a href=\"http://itaoca.sp.gov.br\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
                 "ibge": "3522158",
-                "name": "Itaóca"
+                "name": "Itaóca",
+                "img": "it"
             },
             "geometry": {
                 "type": "LineString",
@@ -35169,12 +35173,13 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>D</b>\n<br>Código IBGE: 3505401",
+                "description": "Categoria: <b>D</b> <br>Código IBGE: 3505401<div class=\"mrg-button\"><a href=\"http://barradoturvo.sp.gov.br\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
                 "ibge": "3505401",
-                "name": "Barra do Turvo"
+                "name": "Barra do Turvo",
+                "img": "bt"
             },
             "geometry": {
                 "type": "LineString",
@@ -40242,12 +40247,13 @@
             "type": "Feature",
             "properties": {
                 "color": "#ff2a2a",
-                "description": "Categoria: <b>C</b>\n<br>Código IBGE: 3502705",
+                "description": "Categoria: <b>C</b> <br>Código IBGE: 3502705<div class=\"mrg-button\"><a href=\"http://apiai.sp.gov.br\" class=\"fas fa-laugh-wink mrg-button\" title=\"Visite!\" target=\"_blank\"> Visite!</a></div><div class='mrg-floatstop'>",
                 "fill": "true",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.3",
                 "ibge": "3502705",
-                "name": "Apiaí"
+                "name": "Apiaí",
+                "img": "ap"
             },
             "geometry": {
                 "type": "LineString",
