@@ -603,7 +603,7 @@
             "properties": {
                 "name": "Limite Municipal",
                 "description": "Limite de Ribeirão Grande",
-                "color": "#ffc933",
+                "color": "#ff0000",
                 "fillColor": "#ffc933",
                 "fillOpacity": "0.2"
             },
