@@ -1,10 +1,52 @@
+
 {
-"type": "FeatureCollection",
-"name": "Confirmados",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Rua Xisto Augusto de Proença", "description": "2 Casos Confirmados" }, "geometry": { "type": "Point", "coordinates": [ -48.365243010256862, -24.099891189898671 ] } },
-{ "type": "Feature", "properties": { "Name": "Rua Francisco Nunes", "description": "1 Caso Confirmado" }, "geometry": { "type": "Point", "coordinates": [ -48.363531356341802, -24.099731745314799 ] } },
-{ "type": "Feature", "properties": { "Name": "Bairro dos Nunes", "description": "1 Caso Confirmado" }, "geometry": { "type": "Point", "coordinates": [ -48.370033146440022, -24.099551938399099 ] } }
-]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rua Xisto Augusto de Proença",
+                "description": "2 Casos Confirmados",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36524301026,
+                    -24.09989118990
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bairro dos Nunes",
+                "description": "1 Caso Confirmado",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37003314644,
+                    -24.09955193840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "1 Caso Confirmado",
+                "name": "Rua Francisco Nunes",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36353135634,
+                    -24.09973174531
+                ]
+            }
+        }
+    ]
 }
