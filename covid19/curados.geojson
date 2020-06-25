@@ -1,8 +1,23 @@
+
 {
-"type": "FeatureCollection",
-"name": "Curados",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Paineira", "description": "4 casos Curados" }, "geometry": { "type": "Point", "coordinates": [ -48.34585392829203, -24.112961900767559 ] } }
-]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "4 casos Curados",
+                "name": "Paineira",
+                "icon": "hand-sparkles",
+                "color": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34585392829,
+                    -24.11296190077
+                ]
+            }
+        }
+    ]
 }
