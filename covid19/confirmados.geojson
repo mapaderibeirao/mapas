@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Confirmados",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Rua Xisto Augusto de Proença", "description": "2 Casos Confirmados" }, "geometry": { "type": "Point", "coordinates": [ -48.365243010256862, -24.099891189898671 ] } },
+{ "type": "Feature", "properties": { "Name": "Rua Francisco Nunes", "description": "1 Caso Confirmado" }, "geometry": { "type": "Point", "coordinates": [ -48.363531356341802, -24.099731745314799 ] } },
+{ "type": "Feature", "properties": { "Name": "Bairro dos Nunes", "description": "1 Caso Confirmado" }, "geometry": { "type": "Point", "coordinates": [ -48.370033146440022, -24.099551938399099 ] } }
+]
+}
