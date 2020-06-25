@@ -8,7 +8,8 @@
             "properties": {
                 "Name": "Rua Xisto Augusto de Proença",
                 "description": "2 Casos Confirmados",
-                "color": "#ff0000"
+                "color": "red",
+                "icon": "virus"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +24,8 @@
             "properties": {
                 "Name": "Bairro dos Nunes",
                 "description": "1 Caso Confirmado",
-                "color": "#ff0000"
+                "color": "red",
+                "icon": "virus"
             },
             "geometry": {
                 "type": "Point",
@@ -38,7 +40,8 @@
             "properties": {
                 "description": "1 Caso Confirmado",
                 "name": "Rua Francisco Nunes",
-                "color": "#ff0000"
+                "color": "red",
+                "icon": "virus"
             },
             "geometry": {
                 "type": "Point",
