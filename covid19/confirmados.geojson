@@ -6,10 +6,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rua Xisto Augusto de Proença",
                 "description": "2 Casos Confirmados",
                 "color": "red",
-                "icon": "virus"
+                "icon": "virus",
+                "name": "Rua Xisto Augusto de Proença"
             },
             "geometry": {
                 "type": "Point",
@@ -22,10 +22,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Bairro dos Nunes",
                 "description": "1 Caso Confirmado",
                 "color": "red",
-                "icon": "virus"
+                "icon": "virus",
+                "name": "Bairro dos Nunes"
             },
             "geometry": {
                 "type": "Point",
