@@ -7,9 +7,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Bairro dos Nunes",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "color": "orange",
-                "icon": "exclamation-triangle",
-                "description": "SUSPEITO"
+                "icon": "exclamation-triangle"
             },
             "geometry": {
                 "type": "Point",
@@ -22,10 +22,26 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bairro Urucuva",
+                "name": "Rua Francisco Nunes",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "color": "orange",
-                "icon": "exclamation-triangle",
-                "description": "SUSPEITO"
+                "icon": "exclamation-triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36353140000,
+                    -24.09973170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Urucuva",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "color": "orange",
+                "icon": "exclamation-triangle"
             },
             "geometry": {
                 "type": "Point",
@@ -39,31 +55,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Rua Joaquim Amantino Ferreira",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "color": "orange",
-                "icon": "exclamation-triangle",
-                "description": "SUSPEITO"
+                "icon": "exclamation-triangle"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -48.36650160000,
                     -24.10181560000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua Francisco Nunes",
-                "color": "orange",
-                "icon": "exclamation-triangle",
-                "description": "SUSPEITO"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36353140000,
-                    -24.09973170000
                 ]
             }
         }

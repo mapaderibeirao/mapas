@@ -7,9 +7,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Bairro Paineira",
-                "description": "CURADO",
+                "color": "green",
                 "icon": "hand-sparkles",
-                "color": "green"
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO"
             },
             "geometry": {
                 "type": "Point",
@@ -23,15 +23,63 @@
             "type": "Feature",
             "properties": {
                 "name": "Rua Jorge Mendes de Carvalho",
-                "description": "CURADO",
+                "color": "green",
                 "icon": "hand-sparkles",
-                "color": "green"
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -48.36409610000,
                     -24.09788250000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Paineira",
+                "color": "green",
+                "icon": "hand-sparkles",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34585390000,
+                    -24.11296190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Paineira",
+                "color": "green",
+                "icon": "hand-sparkles",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34585390000,
+                    -24.11296190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Paineira",
+                "color": "green",
+                "icon": "hand-sparkles",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34585390000,
+                    -24.11296190000
                 ]
             }
         }

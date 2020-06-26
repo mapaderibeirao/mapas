@@ -7,9 +7,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Centro",
-                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "description": "CONFIRMADO"
+                "color": "red"
             },
             "geometry": {
                 "type": "Point",
@@ -23,9 +23,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Rua Francisco Nunes",
-                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "description": "CONFIRMADO"
+                "color": "red"
             },
             "geometry": {
                 "type": "Point",
@@ -39,9 +39,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Bairro dos Nunes",
-                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "description": "CONFIRMADO"
+                "color": "red"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +54,26 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bairro Urucuva",
-                "color": "red",
+                "name": "Bairro Ferreira dos Matos",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "description": "CONFIRMADO"
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39272150000,
+                    -24.07047940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Urucuva",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "icon": "virus",
+                "color": "red"
             },
             "geometry": {
                 "type": "Point",
@@ -71,9 +87,9 @@
             "type": "Feature",
             "properties": {
                 "name": "Rua Xisto Augusto de Proença",
-                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "description": "CONFIRMADO"
+                "color": "red"
             },
             "geometry": {
                 "type": "Point",
