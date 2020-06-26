@@ -7,8 +7,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bairro dos Nunes",
-                "color": "yellow",
-                "icon": "alert",
+                "color": "orange",
+                "icon": "disease",
                 "description": "SUSPEITO"
             },
             "geometry": {
@@ -23,8 +23,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bairro Urucuva",
-                "color": "yellow",
-                "icon": "alert",
+                "color": "orange",
+                "icon": "disease",
                 "description": "SUSPEITO"
             },
             "geometry": {
@@ -39,8 +39,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Rua Joaquim Amantino Ferreira",
-                "color": "yellow",
-                "icon": "alert",
+                "color": "orange",
+                "icon": "disease",
                 "description": "SUSPEITO"
             },
             "geometry": {
@@ -55,8 +55,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Rua Francisco Nunes",
-                "color": "yellow",
-                "icon": "alert",
+                "color": "orange",
+                "icon": "disease",
                 "description": "SUSPEITO"
             },
             "geometry": {
