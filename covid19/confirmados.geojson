@@ -6,26 +6,10 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro",
+                "color": "red",
                 "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "color": "red"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533320000,
-                    -24.09907850000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua Francisco Nunes",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
-                "icon": "virus",
-                "color": "red"
+                "name": "Rua Francisco Nunes"
             },
             "geometry": {
                 "type": "Point",
@@ -38,10 +22,10 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bairro dos Nunes",
+                "color": "red",
                 "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "color": "red"
+                "name": "Bairro dos Nunes"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +38,10 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bairro Ferreira dos Matos",
+                "color": "red",
                 "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "color": "red"
+                "name": "Bairro Ferreira dos Matos"
             },
             "geometry": {
                 "type": "Point",
@@ -70,10 +54,42 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bairro Urucuva",
+                "color": "red",
                 "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "color": "red"
+                "name": "Bairro Ferreira dos Matos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39272150000,
+                    -24.07047940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "icon": "virus",
+                "name": "Bairro Ferreira dos Matos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39272150000,
+                    -24.07047940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "icon": "virus",
+                "name": "Bairro Urucuva"
             },
             "geometry": {
                 "type": "Point",
@@ -86,16 +102,32 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rua Xisto Augusto de Proença",
+                "color": "red",
                 "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
                 "icon": "virus",
-                "color": "red"
+                "name": "Rua Xisto Augusto de Proença"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -48.36524300000,
                     -24.09989120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "icon": "virus",
+                "name": "Centro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36533320000,
+                    -24.09907850000
                 ]
             }
         }
