@@ -6,48 +6,80 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "2 Casos Confirmados",
+                "name": "Centro",
                 "color": "red",
                 "icon": "virus",
-                "name": "Rua Xisto Augusto de Proença"
+                "description": "CONFIRMADO"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36524301026,
-                    -24.09989118990
+                    -48.36533320000,
+                    -24.09907850000
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "1 Caso Confirmado",
-                "color": "red",
-                "icon": "virus",
-                "name": "Bairro dos Nunes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37003314644,
-                    -24.09955193840
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "1 Caso Confirmado",
                 "name": "Rua Francisco Nunes",
                 "color": "red",
-                "icon": "virus"
+                "icon": "virus",
+                "description": "CONFIRMADO"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36353135634,
-                    -24.09973174531
+                    -48.36353140000,
+                    -24.09973170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro dos Nunes",
+                "color": "red",
+                "icon": "virus",
+                "description": "CONFIRMADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37003310000,
+                    -24.09955190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Urucuva",
+                "color": "red",
+                "icon": "virus",
+                "description": "CONFIRMADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35267800000,
+                    -24.12156150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Xisto Augusto de Proença",
+                "color": "red",
+                "icon": "virus",
+                "description": "CONFIRMADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36524300000,
+                    -24.09989120000
                 ]
             }
         }

@@ -1,0 +1,71 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro dos Nunes",
+                "color": "yellow",
+                "icon": "alert",
+                "description": "SUSPEITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37003310000,
+                    -24.09955190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bairro Urucuva",
+                "color": "yellow",
+                "icon": "alert",
+                "description": "SUSPEITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35267800000,
+                    -24.12156150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Joaquim Amantino Ferreira",
+                "color": "yellow",
+                "icon": "alert",
+                "description": "SUSPEITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36650160000,
+                    -24.10181560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Francisco Nunes",
+                "color": "yellow",
+                "icon": "alert",
+                "description": "SUSPEITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36353140000,
+                    -24.09973170000
+                ]
+            }
+        }
+    ]
+}
