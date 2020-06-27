@@ -7,87 +7,7 @@
             "type": "Feature",
             "properties": {
                 "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
-                "icon": "virus",
-                "name": "Rua Francisco Nunes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36353140000,
-                    -24.09973170000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
-                "icon": "virus",
-                "name": "Bairro dos Nunes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37003310000,
-                    -24.09955190000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
-                "icon": "virus",
-                "name": "Bairro Ferreira dos Matos"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39272150000,
-                    -24.07047940000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
-                "icon": "virus",
-                "name": "Bairro Ferreira dos Matos"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39272150000,
-                    -24.07047940000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
-                "icon": "virus",
-                "name": "Bairro Ferreira dos Matos"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39272150000,
-                    -24.07047940000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
                 "icon": "virus",
                 "name": "Bairro Urucuva"
             },
@@ -103,7 +23,7 @@
             "type": "Feature",
             "properties": {
                 "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
                 "icon": "virus",
                 "name": "Rua Xisto Augusto de Proença"
             },
@@ -119,7 +39,23 @@
             "type": "Feature",
             "properties": {
                 "color": "red",
-                "description": "ENDEREÇO EXATO NÃO SERÁ DIVULGADO",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "virus",
+                "name": "Rua Francisco Nunes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36353140000,
+                    -24.09973170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
                 "icon": "virus",
                 "name": "Centro"
             },
@@ -128,6 +64,70 @@
                 "coordinates": [
                     -48.36533320000,
                     -24.09907850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "virus",
+                "name": "Bairro Ferreira dos Matos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39272150000,
+                    -24.07047940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "virus",
+                "name": "Bairro dos Nunes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37003310000,
+                    -24.09955190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "virus",
+                "name": "Bairro Ferreira dos Matos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39272150000,
+                    -24.07047940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "red",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "virus",
+                "name": "Bairro Ferreira dos Matos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39272150000,
+                    -24.07047940000
                 ]
             }
         }
