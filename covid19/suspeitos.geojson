@@ -25,38 +25,6 @@
                 "color": "orange",
                 "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
                 "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
                 "name": "Rua Joaquim Amantino Ferreira"
             },
             "geometry": {
@@ -64,38 +32,6 @@
                 "coordinates": [
                     -48.36650160000,
                     -24.10181560000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
                 ]
             }
         },
@@ -121,38 +57,6 @@
                 "color": "orange",
                 "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
                 "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
                 "name": "Rua Francisco Nunes"
             },
             "geometry": {
@@ -160,22 +64,6 @@
                 "coordinates": [
                     -48.36353140000,
                     -24.09973170000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "orange",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "exclamation-triangle",
-                "name": "Centro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36533197616,
-                    -24.09907745528
                 ]
             }
         }
