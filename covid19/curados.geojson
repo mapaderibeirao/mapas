@@ -25,22 +25,6 @@
                 "color": "green",
                 "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
                 "icon": "hand-sparkles",
-                "name": "Bairro Paineira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.34585390000,
-                    -24.11296190000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "color": "green",
-                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
-                "icon": "hand-sparkles",
                 "name": "Rua Jorge Mendes de Carvalho"
             },
             "geometry": {
@@ -80,6 +64,38 @@
                 "coordinates": [
                     -48.34585390000,
                     -24.11296190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "green",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "hand-sparkles",
+                "name": "Bairro Paineira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34585390000,
+                    -24.11296190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "green",
+                "description": "Apenas o Bairro ou Rua da ocorrência. Confira também o <a href='https://wp.me/p8DR6g-166'>BOLETIM</a>.",
+                "icon": "hand-sparkles",
+                "name": "Centro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36533753108,
+                    -24.09906581558
                 ]
             }
         }
