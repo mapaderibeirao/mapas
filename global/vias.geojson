@@ -6,59 +6,43 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 1315",
-                "name": "Rua Jorge Mendes de Carvalho"
+                "description": "(Conhecido como \"Zé Tomáz\")<br>Lei 1234",
+                "name": "Rua José Hipólito da Cruz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36414699000,
-                    -24.09784584585
+                    -48.36937755340,
+                    -24.11059048292
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 1187",
+                "description": "Lei 1234",
                 "icon": "road",
-                "name": "Rua Adão Rodrigues da Silva"
+                "name": "Rua João Timóteo da Cruz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36537734466,
-                    -24.09767316824
+                    -48.36944346698,
+                    -24.10964632804
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 1215",
-                "icon": "road",
-                "name": "Avenida Cesário Pedroso da Costa"
+                "description": "Lei 766",
+                "name": "Rua José Aparecido da Cruz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.39641620000,
-                    -24.12750620000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1315",
-                "icon": "road",
-                "name": "Rua Joaquim Cruz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36277449676,
-                    -24.09756539839
+                    -48.37155587392,
+                    -24.10920110500
                 ]
             }
         },
@@ -80,45 +64,44 @@
         {
             "type": "Feature",
             "properties": {
+                "description": "Lei 585",
+                "name": "Rua José Paulino Assumpção"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36930752455,
+                    -24.10138588351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "description": "Lei 1215",
                 "icon": "road",
-                "name": "Rua João Antonio da Silva"
+                "name": "Rua Joaquim Honório de Queiroz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.39935423945,
-                    -24.13243110104
+                    -48.39717224967,
+                    -24.12803572000
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "(Conhecido como Pedro Américo)<br>Lei 1234",
+                "description": "(Conhecido como Antônio Inácio)<br>Lei 1234",
                 "icon": "road",
-                "name": "Avenida Pedro Gomes de Proença"
+                "name": "Rua Antônio Vicente da Cruz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37009920000,
-                    -24.10833400000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "(Conhecido como \"Joaquim Machado\")<br>Lei 1234",
-                "icon": "road",
-                "name": "Rua Joaquim Ferreira Machado"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36924510349,
-                    -24.11015348244
+                    -48.36985511964,
+                    -24.10823600320
                 ]
             }
         },
@@ -127,13 +110,201 @@
             "properties": {
                 "description": "Lei 1198",
                 "icon": "road",
-                "name": "Rua Ermenegildo de Lima"
+                "name": "Rua Antônio Cruz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36437253670,
-                    -24.09882488973
+                    -48.36558357046,
+                    -24.09854706886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "(Conhecida como \"Pedrina Estudante\")<br>Lei 1037",
+                "name": "Rua Pedrina Maria do Espírito Santo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36418211728,
+                    -24.10341295145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 922",
+                "name": "Rua José Alves de Oliveira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.42354277559,
+                    -24.23059821083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Fonte: Prefeitura Municipal",
+                "name": "Rua José Acácio Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37240315576,
+                    -24.09903060198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Maria Anésia da Cruz",
+                "description": "Lei 767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37137848407,
+                    -24.10984949346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "icon": "road",
+                "name": "Avenida Cesário Pedroso da Costa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39641620000,
+                    -24.12750620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 590",
+                "icon": "road",
+                "name": "Rua Braziliza Maria dos Anjos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36957828111,
+                    -24.10059309200
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "(Conhecido como Chico Lima)<br>Lei 492<br>Antes chamada Rua Joaquim Nunes Maciel",
+                "icon": "road",
+                "name": "Rua Francisco Phelippe de Lima"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36662474925,
+                    -24.09785269011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 911",
+                "name": "Rua Paulino Olimpio de Araújo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35297585070,
+                    -24.14676337988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "(Conhecido como Juventino Carneiro)<br>Lei 1149",
+                "name": "Rua Juventino Marcelino Cabral"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36458176509,
+                    -24.09947350206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 594",
+                "icon": "road",
+                "name": "Rua Emilia Maria Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37338860982,
+                    -24.09699579270
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1165",
+                "icon": "road",
+                "name": "Rua Joaquim Eugênio de Proença"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36942802569,
+                    -24.10515507705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Marcelino Libório da Costa",
+                "description": "Lei 763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37293148309,
+                    -24.11143593262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 756",
+                "icon": "road",
+                "name": "Rua Joaquim Amantino Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36754062375,
+                    -24.10422867941
                 ]
             }
         },
@@ -157,116 +328,13 @@
             "properties": {
                 "description": "Lei 1198",
                 "icon": "road",
-                "name": "Rua Joaquim Vitorino de Proença"
+                "name": "Rua Francisco Silvério Ferreira"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36400462726,
-                    -24.09861190872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1234",
-                "icon": "road",
-                "name": "Rua João Timóteo da Cruz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36944346698,
-                    -24.10964632804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1315",
-                "icon": "road",
-                "name": "Rua Felício Lapiano"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36324477180,
-                    -24.09684435632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua Julio Kyoshi Takigawa",
-                "description": "Fonte: Prefeitura Municipal"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37247185120,
-                    -24.09976937668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 593",
-                "icon": "road",
-                "name": "Rua Francisco Cesarino Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37353588834,
-                    -24.09930128219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1315",
-                "icon": "road",
-                "name": "Rua Benedito Machado"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36296023284,
-                    -24.10040770258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José Inácio da Cruz",
-                "description": "Lei 465"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37477710674,
-                    -24.10641576494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1215",
-                "icon": "road",
-                "name": "Rua Joaquim Honório de Queiroz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39717224967,
-                    -24.12803572000
+                    -48.36826850869,
+                    -24.09751360089
                 ]
             }
         },
@@ -288,310 +356,14 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 1198",
-                "icon": "road",
-                "name": "Avenida Eduardo Brisola de Lima"
+                "name": "Rua Maria Madalena da Costa",
+                "description": "Lei 918"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36466927047,
-                    -24.09795091431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1215",
-                "icon": "road",
-                "name": "Rua Antônio Domingues de Queiroz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39872913021,
-                    -24.13074676985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 770",
-                "icon": "road",
-                "name": "Rua Anna Antonia Mendes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37092298002,
-                    -24.10977634934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Fonte: Prefeitura Municipal",
-                "name": "Rua José Acácio Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37240315576,
-                    -24.09903060198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 771",
-                "icon": "road",
-                "name": "Rua Antônio Francisco Queiroz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37186146942,
-                    -24.11014437617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1215",
-                "icon": "road",
-                "name": "Rua Joaquim Domingues de Queiroz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39991381800,
-                    -24.13249044505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 757",
-                "icon": "road",
-                "name": "Rua Antônio Braziliense da Cruz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37179094360,
-                    -24.10862200185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José Egydio Custódio",
-                "description": "Lei 919"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.42352578248,
-                    -24.22919434070
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "(Conhecido como \"Joaquim de Barros\")<br>Lei 1241",
-                "icon": "road",
-                "name": "Rua Joaquim Domingues da Costa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36314340904,
-                    -24.10201900021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1165",
-                "icon": "road",
-                "name": "Rua Joaquim Eugênio de Proença"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36942802569,
-                    -24.10515507705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Referência na Lei 1315",
-                "icon": "road",
-                "name": "Rua Brasílio Marcolino Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36436439906,
-                    -24.09563378595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "(Antes como \"Rua Silvério\")<br>Lei 910",
-                "icon": "road",
-                "name": "Rua Joaquim Silvério Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36672540421,
-                    -24.10012223275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1198<br>Trecho até SP-181 desmembrado como \"RUA KEISUKE SASADA\" pela Lei 612, e posteriormente retomado pela Lei 1198",
-                "icon": "road",
-                "name": "Rua Francisco Nunes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36367061297,
-                    -24.09916025936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José Honório Ferreira",
-                "description": "Lei 839"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37100722613,
-                    -24.10063216593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1198",
-                "icon": "road",
-                "name": "Rua João Batista Brisola"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36638113124,
-                    -24.09925405644
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1215",
-                "name": "Rua José Alexandrino Mendes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.40068233851,
-                    -24.13264143115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "(Conhecido como Chico Lima)<br>Lei 492<br>Antes chamada Rua Joaquim Nunes Maciel",
-                "icon": "road",
-                "name": "Rua Francisco Phelippe de Lima"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36662474925,
-                    -24.09785269011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 781",
-                "icon": "road",
-                "name": "Rua Edwirges Vilarino Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37292795600,
-                    -24.09729289432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José Paulino Ferreira",
-                "description": "Lei 758"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37161179199,
-                    -24.10801459566
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 868",
-                "icon": "road",
-                "name": "Rua Eugenio Brisola de Proença"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36485887125,
-                    -24.09571818513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "(Conhecido como Antônio Inácio)<br>Lei 1234",
-                "icon": "road",
-                "name": "Rua Antônio Vicente da Cruz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36985511964,
-                    -24.10823600320
+                    -48.42288494647,
+                    -24.22902240155
                 ]
             }
         },
@@ -613,74 +385,73 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 769",
+                "description": "Lei 1315",
                 "icon": "road",
-                "name": "Rua João Benevenuto da Cruz"
+                "name": "Rua Benedito Machado"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37050484872,
-                    -24.10913262059
+                    -48.36296023284,
+                    -24.10040770258
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Rua José Paulino Assumpção",
-                "description": "Lei 585"
+                "description": "Lei 758",
+                "name": "Rua José Paulino Ferreira"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36930752455,
-                    -24.10138588351
+                    -48.37161179199,
+                    -24.10801459566
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Fonte: Prefeitura Municipal",
+                "description": "(Conhecido como \"Joaquim de Barros\")<br>Lei 1241",
                 "icon": "road",
-                "name": "Rua João Amantino Ferreira"
+                "name": "Rua Joaquim Domingues da Costa"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37141945936,
-                    -24.10082655660
+                    -48.36314340904,
+                    -24.10201900021
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 756",
-                "icon": "road",
-                "name": "Rua Calixto Demiciano Mendes"
+                "name": "Viela Justino Alves de Oliveira",
+                "description": "Lei 921"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37043992638,
-                    -24.10730932207
+                    -48.42287153274,
+                    -24.22637586990
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 590",
+                "description": "Lei 1215",
                 "icon": "road",
-                "name": "Rua Braziliza Maria dos Anjos"
+                "name": "Rua Antônio Domingues de Queiroz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36957828111,
-                    -24.10059309200
+                    -48.39872913021,
+                    -24.13074676985
                 ]
             }
         },
@@ -702,170 +473,22 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 772",
-                "icon": "road",
-                "name": "Rua Francisco Catarino da Cruz"
+                "description": "Lei 1315",
+                "name": "Rua Jorge Mendes de Carvalho"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37926320321,
-                    -24.10838346183
+                    -48.36414699000,
+                    -24.09784584585
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Rua José Alves de Oliveira",
-                "description": "Lei 922"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.42354277559,
-                    -24.23059821083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1215",
-                "icon": "road",
-                "name": "Rua Alfredo Julio da Costa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39913530000,
-                    -24.12799200000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1215",
-                "icon": "road",
-                "name": "Rua Domingos Francisco de Lima"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.39445869675,
-                    -24.12522487343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 591",
-                "icon": "road",
-                "name": "Rua Francisco Roleano Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36999935067,
-                    -24.10011142116
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José Hipólito da Cruz",
-                "description": "(Conhecido como \"Zé Tomáz\")<br>Lei 1234"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36937755340,
-                    -24.11059048292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 765",
-                "icon": "road",
-                "name": "Rua João Damas de Proença"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37283947670,
-                    -24.10914077744
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 0445",
-                "icon": "road",
-                "name": "Avenida Paulino Ferreira de Assumpção"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36918400000,
-                    -24.10020230000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José Eugênio Ferreira",
-                "description": "Lei 1315"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36384077592,
-                    -24.09993636174
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 917",
-                "icon": "road",
-                "name": "Rua Joaquim Ezequiel da Costa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.42308388270,
-                    -24.22596486005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 594",
-                "icon": "road",
-                "name": "Rua Emilia Maria Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.37338860982,
-                    -24.09699579270
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rua José da Cruz",
-                "description": "Lei 1198"
+                "description": "Lei 1198",
+                "name": "Rua José da Cruz"
             },
             "geometry": {
                 "type": "Point",
@@ -878,29 +501,43 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rua José Rodrigues Machado",
-                "description": "Lei 1265"
+                "description": "Lei 1198",
+                "icon": "road",
+                "name": "Rua João Batista Brisola"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.34776727958,
-                    -24.07021909862
+                    -48.36638113124,
+                    -24.09925405644
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 1234",
-                "icon": "road",
-                "name": "Rua Aparício Ângelo da Cruz"
+                "description": "Lei 1315",
+                "name": "Rua José Eugênio Ferreira"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36978447292,
-                    -24.10907783353
+                    -48.36384077592,
+                    -24.09993636174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1198",
+                "name": "Rua Manoel Silvério Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36699843541,
+                    -24.10040634750
                 ]
             }
         },
@@ -909,43 +546,13 @@
             "properties": {
                 "description": "Lei 1198",
                 "icon": "road",
-                "name": "Rua Deodoro José de Lima"
+                "name": "Rua Joaquim Vitorino de Proença"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36491236129,
-                    -24.09991675738
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1354",
-                "icon": "road",
-                "name": "Rua Ana Alexandrina Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36868818295,
-                    -24.10112671893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Lei 1198",
-                "icon": "road",
-                "name": "Rua Francisco Silvério Ferreira"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -48.36826850869,
-                    -24.09751360089
+                    -48.36400462726,
+                    -24.09861190872
                 ]
             }
         },
@@ -967,14 +574,117 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rua José Aparecido da Cruz",
-                "description": "Lei 766"
+                "description": "(Conhecido como \"Joaquim Machado\")<br>Lei 1234",
+                "icon": "road",
+                "name": "Rua Joaquim Ferreira Machado"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.37155587392,
-                    -24.10920110500
+                    -48.36924510349,
+                    -24.11015348244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Maria Faustina da Cruz",
+                "description": "(Conhecida como \"Maria América\")<br>Lei 1242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36345523864,
+                    -24.10204431827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1198",
+                "icon": "road",
+                "name": "Rua Deodoro José de Lima"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36491236129,
+                    -24.09991675738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 465",
+                "name": "Rua José Inácio da Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37477710674,
+                    -24.10641576494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 868",
+                "icon": "road",
+                "name": "Rua Eugenio Brisola de Proença"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36485887125,
+                    -24.09571818513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Fonte: Prefeitura Municipal",
+                "name": "Rua Julio Kyoshi Takigawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37247185120,
+                    -24.09976937668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 757",
+                "icon": "road",
+                "name": "Rua Antônio Braziliense da Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37179094360,
+                    -24.10862200185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 591",
+                "icon": "road",
+                "name": "Rua Francisco Roleano Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36999935067,
+                    -24.10011142116
                 ]
             }
         },
@@ -983,13 +693,293 @@
             "properties": {
                 "description": "Lei 756",
                 "icon": "road",
-                "name": "Rua Joaquim Amantino Ferreira"
+                "name": "Rua Calixto Demiciano Mendes"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36754062375,
-                    -24.10422867941
+                    -48.37043992638,
+                    -24.10730932207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "name": "Rua José Alexandrino Mendes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.40068233851,
+                    -24.13264143115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Maria Luiza da Cruz",
+                "description": "Fonte: Prefeitura Municipal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37332845002,
+                    -24.10801820900
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 917",
+                "icon": "road",
+                "name": "Rua Joaquim Ezequiel da Costa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.42308388270,
+                    -24.22596486005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1198<br>Trecho até SP-181 desmembrado como \"RUA KEISUKE SASADA\" pela Lei 612, e posteriormente retomado pela Lei 1198",
+                "icon": "road",
+                "name": "Rua Francisco Nunes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36367061297,
+                    -24.09916025936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 765",
+                "icon": "road",
+                "name": "Rua João Damas de Proença"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37283947670,
+                    -24.10914077744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1198",
+                "icon": "road",
+                "name": "Rua Ermenegildo de Lima"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36437253670,
+                    -24.09882488973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1354",
+                "icon": "road",
+                "name": "Rua Ana Alexandrina Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36868818295,
+                    -24.10112671893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "icon": "road",
+                "name": "Rua João Antonio da Silva"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39935423945,
+                    -24.13243110104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Fonte: Prefeitura Municipal",
+                "icon": "road",
+                "name": "Rua João Amantino Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37141945936,
+                    -24.10082655660
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 593",
+                "icon": "road",
+                "name": "Rua Francisco Cesarino Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37353588834,
+                    -24.09930128219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rua Luiz Maurício da Silva",
+                "description": "Lei 1215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39934319392,
+                    -24.13162214460
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 781",
+                "icon": "road",
+                "name": "Rua Edwirges Vilarino Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37292795600,
+                    -24.09729289432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 919",
+                "name": "Rua José Egydio Custódio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.42352578248,
+                    -24.22919434070
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "icon": "road",
+                "name": "Rua Alfredo Julio da Costa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39913530000,
+                    -24.12799200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 771",
+                "icon": "road",
+                "name": "Rua Antônio Francisco Queiroz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37186146942,
+                    -24.11014437617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1315",
+                "icon": "road",
+                "name": "Rua Joaquim Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36277449676,
+                    -24.09756539839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 839",
+                "name": "Rua José Honório Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37100722613,
+                    -24.10063216593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 0445",
+                "icon": "road",
+                "name": "Avenida Paulino Ferreira de Assumpção"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36918400000,
+                    -24.10020230000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Referência na Lei 1315",
+                "icon": "road",
+                "name": "Rua Brasílio Marcolino Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36436439906,
+                    -24.09563378595
                 ]
             }
         },
@@ -1011,15 +1001,221 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Lei 1198",
+                "description": "(Conhecido como Pedro Américo)<br>Lei 1234",
                 "icon": "road",
-                "name": "Rua Antônio Cruz"
+                "name": "Avenida Pedro Gomes de Proença"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -48.36558357046,
-                    -24.09854706886
+                    -48.37009920000,
+                    -24.10833400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1234",
+                "icon": "road",
+                "name": "Rua Aparício Ângelo da Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36978447292,
+                    -24.10907783353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 966",
+                "name": "Rua Martinho Mendes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36887061864,
+                    -24.10651007272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1198",
+                "icon": "road",
+                "name": "Avenida Eduardo Brisola de Lima"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36466927047,
+                    -24.09795091431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 769",
+                "icon": "road",
+                "name": "Rua João Benevenuto da Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37050484872,
+                    -24.10913262059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1315",
+                "icon": "road",
+                "name": "Rua Felício Lapiano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36324477180,
+                    -24.09684435632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "name": "Rua Oswaldo Eugênio de Queiroz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39974820882,
+                    -24.13191098430
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "icon": "road",
+                "name": "Rua Joaquim Domingues de Queiroz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39991381800,
+                    -24.13249044505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "icon": "road",
+                "name": "Rua Domingos Francisco de Lima"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39445869675,
+                    -24.12522487343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1215",
+                "name": "Rua Natálio Rosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39456082463,
+                    -24.13057936591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 770",
+                "icon": "road",
+                "name": "Rua Anna Antonia Mendes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37092298002,
+                    -24.10977634934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 772",
+                "icon": "road",
+                "name": "Rua Francisco Catarino da Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37926320321,
+                    -24.10838346183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1187",
+                "icon": "road",
+                "name": "Rua Adão Rodrigues da Silva"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36537734466,
+                    -24.09767316824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Lei 1265",
+                "name": "Rua José Rodrigues Machado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34776727958,
+                    -24.07021909862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "(Antes como \"Rua Silvério\")<br>Lei 910",
+                "icon": "road",
+                "name": "Rua Joaquim Silvério Ferreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36672540421,
+                    -24.10012223275
                 ]
             }
         }
