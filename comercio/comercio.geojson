@@ -1,0 +1,2756 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-07-27T12:42:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256694042",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Posto Trevo",
+        "shop": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3615801,
+              -24.0970549
+            ],
+            [
+              -48.3615629,
+              -24.0970857
+            ],
+            [
+              -48.3615286,
+              -24.0970698
+            ],
+            [
+              -48.3616011,
+              -24.0969397
+            ],
+            [
+              -48.3618276,
+              -24.0970449
+            ],
+            [
+              -48.3617723,
+              -24.0971441
+            ],
+            [
+              -48.3615801,
+              -24.0970549
+            ]
+          ]
+        ]
+      },
+      "id": "way/256694042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295568852",
+        "building": "yes",
+        "contact:phone": "15997033565",
+        "name": "Estância Oliveira",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.345356,
+              -24.1185266
+            ],
+            [
+              -48.3452275,
+              -24.1185877
+            ],
+            [
+              -48.3451985,
+              -24.1185298
+            ],
+            [
+              -48.3453239,
+              -24.1184688
+            ],
+            [
+              -48.345356,
+              -24.1185266
+            ]
+          ]
+        ]
+      },
+      "id": "way/295568852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305754809",
+        "name": "Casa Técnica",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4107887,
+              -24.2653576
+            ],
+            [
+              -48.4109086,
+              -24.2652987
+            ],
+            [
+              -48.4109564,
+              -24.2653804
+            ],
+            [
+              -48.4108365,
+              -24.2654392
+            ],
+            [
+              -48.4107887,
+              -24.2653576
+            ]
+          ]
+        ]
+      },
+      "id": "way/305754809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315499524",
+        "addr:city": "Ribeirão Grande",
+        "addr:housenumber": "44",
+        "addr:postcode": "18315000",
+        "addr:street": "Praça Bom Jesus",
+        "addr:suburb": "Centro",
+        "alt_name": "Rojão Do Balaio",
+        "building": "yes",
+        "contact:email": "rojao.do.balaio@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/pg/rojaodo.balaio/",
+        "name": "Balaio",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "phone": "+55 15997119691;+55 15997076227;+55 1535441146",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3655894,
+              -24.0995361
+            ],
+            [
+              -48.3655501,
+              -24.0996115
+            ],
+            [
+              -48.3654927,
+              -24.0995866
+            ],
+            [
+              -48.365532,
+              -24.0995112
+            ],
+            [
+              -48.3655894,
+              -24.0995361
+            ]
+          ]
+        ]
+      },
+      "id": "way/315499524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326225132",
+        "addr:housenumber": "146",
+        "addr:street": "Rua Eugenio Brisola de Lima",
+        "addr:suburb": "Jardim Beira Rio",
+        "building": "yes",
+        "name": "Centro Automotivo Afonso",
+        "phone": "+55 15 99727-7072",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3646905,
+              -24.0949724
+            ],
+            [
+              -48.3645901,
+              -24.0950008
+            ],
+            [
+              -48.3645608,
+              -24.0949145
+            ],
+            [
+              -48.3646612,
+              -24.094886
+            ],
+            [
+              -48.3646905,
+              -24.0949724
+            ]
+          ]
+        ]
+      },
+      "id": "way/326225132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340141550",
+        "building": "yes",
+        "building:colour": "#FF0000",
+        "name": "Marcelo Móveis",
+        "roof:colour": "#CCCCCC",
+        "roof:shape": "gabled",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3671611,
+              -24.0990681
+            ],
+            [
+              -48.3669944,
+              -24.0991753
+            ],
+            [
+              -48.3669069,
+              -24.0990604
+            ],
+            [
+              -48.3670758,
+              -24.0989587
+            ],
+            [
+              -48.3671611,
+              -24.0990681
+            ]
+          ]
+        ]
+      },
+      "id": "way/340141550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340141859",
+        "addr:housenumber": "232",
+        "addr:street": "Rua Joaquim Silvério Ferreira",
+        "building": "commercial",
+        "name": "2M Supermercado",
+        "phone": "+551535441266",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.366668,
+              -24.0998546
+            ],
+            [
+              -48.3668006,
+              -24.1000218
+            ],
+            [
+              -48.3666432,
+              -24.1001142
+            ],
+            [
+              -48.3665107,
+              -24.0999511
+            ],
+            [
+              -48.366668,
+              -24.0998546
+            ]
+          ]
+        ]
+      },
+      "id": "way/340141859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362760293",
+        "building": "commercial",
+        "name": "Mercearia AVC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3716479,
+              -24.1085674
+            ],
+            [
+              -48.3715627,
+              -24.1085632
+            ],
+            [
+              -48.3715694,
+              -24.1084643
+            ],
+            [
+              -48.3716525,
+              -24.1084676
+            ],
+            [
+              -48.3716479,
+              -24.1085674
+            ]
+          ]
+        ]
+      },
+      "id": "way/362760293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364188943",
+        "addr:housenumber": "141",
+        "addr:street": "Rua Joaquim Amantino Ferreira",
+        "addr:suburb": "Centro",
+        "building": "commercial",
+        "email": "merc.martins@hotmail.com",
+        "name": "Mercado Martins",
+        "phone": "+5515996179562;+551535441246;+5515996602388",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3663768,
+              -24.1008866
+            ],
+            [
+              -48.3661406,
+              -24.1009471
+            ],
+            [
+              -48.3661242,
+              -24.1008584
+            ],
+            [
+              -48.3663934,
+              -24.1007934
+            ],
+            [
+              -48.3663768,
+              -24.1008866
+            ]
+          ]
+        ]
+      },
+      "id": "way/364188943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364189039",
+        "building": "commercial",
+        "name": "RG Móveis",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3663653,
+              -24.1010482
+            ],
+            [
+              -48.3661981,
+              -24.1010781
+            ],
+            [
+              -48.3661767,
+              -24.1009784
+            ],
+            [
+              -48.3663438,
+              -24.1009485
+            ],
+            [
+              -48.3663653,
+              -24.1010482
+            ]
+          ]
+        ]
+      },
+      "id": "way/364189039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/365736701",
+        "addr:housenumber": "59",
+        "addr:street": "Praça Bom Jesus",
+        "addr:suburb": "Centro",
+        "amenity": "fast_food",
+        "building": "yes",
+        "contact:email": "sorveteria_parof@hotmail.com",
+        "contact:phone": "+551535441181;+5515997619258",
+        "name": "Parof"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3658627,
+              -24.0989716
+            ],
+            [
+              -48.3658959,
+              -24.0990008
+            ],
+            [
+              -48.3658852,
+              -24.099011
+            ],
+            [
+              -48.3659286,
+              -24.099049
+            ],
+            [
+              -48.3658478,
+              -24.0991258
+            ],
+            [
+              -48.3658353,
+              -24.0991147
+            ],
+            [
+              -48.3658088,
+              -24.0991399
+            ],
+            [
+              -48.3658204,
+              -24.0991501
+            ],
+            [
+              -48.3657466,
+              -24.099219
+            ],
+            [
+              -48.365741,
+              -24.0992255
+            ],
+            [
+              -48.3656653,
+              -24.0991591
+            ],
+            [
+              -48.3658627,
+              -24.0989716
+            ]
+          ]
+        ]
+      },
+      "id": "way/365736701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/365737081",
+        "building": "yes",
+        "name": "Helo Presentes",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3665963,
+              -24.1007379
+            ],
+            [
+              -48.3665458,
+              -24.1007605
+            ],
+            [
+              -48.3665051,
+              -24.1006846
+            ],
+            [
+              -48.3665556,
+              -24.100662
+            ],
+            [
+              -48.3665963,
+              -24.1007379
+            ]
+          ]
+        ]
+      },
+      "id": "way/365737081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366296574",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3651494,
+              -24.0972193
+            ],
+            [
+              -48.3650574,
+              -24.097273
+            ],
+            [
+              -48.3650273,
+              -24.09723
+            ],
+            [
+              -48.3650902,
+              -24.0971933
+            ],
+            [
+              -48.3651193,
+              -24.0971763
+            ],
+            [
+              -48.3651494,
+              -24.0972193
+            ]
+          ]
+        ]
+      },
+      "id": "way/366296574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384833310",
+        "building": "yes",
+        "name": "Mercearia Vaz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3989744,
+              -24.1325985
+            ],
+            [
+              -48.3988785,
+              -24.1326027
+            ],
+            [
+              -48.3988735,
+              -24.1325066
+            ],
+            [
+              -48.3989693,
+              -24.1325024
+            ],
+            [
+              -48.3989744,
+              -24.1325985
+            ]
+          ]
+        ]
+      },
+      "id": "way/384833310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385100910",
+        "building": "yes",
+        "name": "Auto Elétrica São Cristóvão",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3634629,
+              -24.0971309
+            ],
+            [
+              -48.3634545,
+              -24.0971349
+            ],
+            [
+              -48.363335,
+              -24.0971692
+            ],
+            [
+              -48.3633177,
+              -24.0971139
+            ],
+            [
+              -48.3633369,
+              -24.097109
+            ],
+            [
+              -48.3633272,
+              -24.0970778
+            ],
+            [
+              -48.3634092,
+              -24.0970566
+            ],
+            [
+              -48.3634376,
+              -24.0970493
+            ],
+            [
+              -48.3634629,
+              -24.0971309
+            ]
+          ]
+        ]
+      },
+      "id": "way/385100910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385145857",
+        "addr:housenumber": "20",
+        "addr:street": "Rua Ermenegildo de Lima",
+        "addr:suburb": "Centro",
+        "building": "shop",
+        "email": "cial_ribeirao@hotmail.com",
+        "name": "Comercial Ribeirão",
+        "phone": "+551535441122",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3648917,
+              -24.0983894
+            ],
+            [
+              -48.3650372,
+              -24.0986381
+            ],
+            [
+              -48.3649232,
+              -24.0986915
+            ],
+            [
+              -48.3648834,
+              -24.0986346
+            ],
+            [
+              -48.364763,
+              -24.0984623
+            ],
+            [
+              -48.3648307,
+              -24.0983873
+            ],
+            [
+              -48.3648917,
+              -24.0983894
+            ]
+          ]
+        ]
+      },
+      "id": "way/385145857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483959504",
+        "building": "commercial",
+        "name": "Comercial Vitória",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.370997,
+              -24.108156
+            ],
+            [
+              -48.3709032,
+              -24.1082221
+            ],
+            [
+              -48.3708497,
+              -24.1081588
+            ],
+            [
+              -48.3709436,
+              -24.1080927
+            ],
+            [
+              -48.370997,
+              -24.108156
+            ]
+          ]
+        ]
+      },
+      "id": "way/483959504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512384723",
+        "barrier": "wall",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3670414,
+              -24.1017517
+            ],
+            [
+              -48.3666296,
+              -24.1019427
+            ],
+            [
+              -48.3664741,
+              -24.1016991
+            ],
+            [
+              -48.3669059,
+              -24.1015657
+            ],
+            [
+              -48.3670414,
+              -24.1017517
+            ]
+          ]
+        ]
+      },
+      "id": "way/512384723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/517955646",
+        "building": "yes",
+        "name": "AutoCar Oficina",
+        "service": "repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3681907,
+              -24.1005398
+            ],
+            [
+              -48.3680861,
+              -24.1005557
+            ],
+            [
+              -48.3680627,
+              -24.1004275
+            ],
+            [
+              -48.3681673,
+              -24.1004115
+            ],
+            [
+              -48.3681907,
+              -24.1005398
+            ]
+          ]
+        ]
+      },
+      "id": "way/517955646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521311033",
+        "building": "yes",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3667949,
+              -24.1013685
+            ],
+            [
+              -48.3664608,
+              -24.1014042
+            ],
+            [
+              -48.3664788,
+              -24.1012667
+            ],
+            [
+              -48.3667345,
+              -24.1012591
+            ],
+            [
+              -48.3667949,
+              -24.1013685
+            ]
+          ]
+        ]
+      },
+      "id": "way/521311033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2516340956",
+        "addr:housenumber": "305",
+        "addr:street": "Rua Joaquim Silvério Ferreira",
+        "name": "Rações 2M",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3674456,
+          -24.0998655
+        ]
+      },
+      "id": "node/2516340956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544980226",
+        "name": "Adega",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3663077,
+          -24.101414
+        ]
+      },
+      "id": "node/2544980226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544980227",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Drogaria do Camilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3653979,
+          -24.0987935
+        ]
+      },
+      "id": "node/2544980227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550347950",
+        "addr:housenumber": "27",
+        "addr:street": "Praça Bom Jesus",
+        "contact:email": "dirceu.rogerio@gmail.com",
+        "contact:phone": "1535441261;15997750606",
+        "name": "Casa Ferreira",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3659555,
+          -24.0994099
+        ]
+      },
+      "id": "node/2550347950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3111639030",
+        "name": "2M Supermercado",
+        "phone": "+551535441266",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3517395,
+          -24.1463871
+        ]
+      },
+      "id": "node/3111639030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3125925756",
+        "addr:housenumber": "10",
+        "addr:street": "Praça Bom Jesus",
+        "addr:suburb": "Centro",
+        "contact:email": "cassianobrisolla@hotmail.com",
+        "contact:phone": "+551535441104;+5515997386094",
+        "name": "Padaria Sagrada Família Brisolla",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3660573,
+          -24.0996025
+        ]
+      },
+      "id": "node/3125925756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3126022829",
+        "name": "Mercado Arco-Íris",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3697665,
+          -24.1000273
+        ]
+      },
+      "id": "node/3126022829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3126116230",
+        "addr:housenumber": "115",
+        "addr:street": "Rua Felício Lapiano",
+        "addr:suburb": "Jardim Beira Rio",
+        "name": "Mecânica Ferreira",
+        "phone": "+55 15 3544-1115;+55 15 99767-7978",
+        "service:vehicle:repairs": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3652706,
+          -24.0963162
+        ]
+      },
+      "id": "node/3126116230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3181191064",
+        "addr:housenumber": "307",
+        "addr:street": "Rua Joaquim Silvério Ferreira",
+        "name": "Dina",
+        "shop": "hairdresser",
+        "unisex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3674808,
+          -24.0997976
+        ]
+      },
+      "id": "node/3181191064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3181191067",
+        "addr:housenumber": "323",
+        "addr:street": "Rua Joaquim Silvério Ferreira",
+        "amenity": "fast_food",
+        "contact:phone": "+5515997412449;+5515991474716",
+        "name": "Ponto Chic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3676774,
+          -24.0997875
+        ]
+      },
+      "id": "node/3181191067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184824824",
+        "addr:housenumber": "447",
+        "addr:street": "Rua Manoel Silvério Ferreira",
+        "name": "LF Preço Único 1,99",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657296,
+          -24.09766
+        ]
+      },
+      "id": "node/3184824824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3204577646",
+        "addr:housenumber": "125",
+        "addr:street": "Rua Antônio Cruz",
+        "name": "Santa Luzia",
+        "operator": "Grupo Sanches",
+        "phone": "+551535431412",
+        "shop": "funeral_directors",
+        "survey:date": "2014-11-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3653473,
+          -24.0986698
+        ]
+      },
+      "id": "node/3204577646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3204586967",
+        "addr:housenumber": "81",
+        "addr:street": "Rua Joaquim Amantino Ferreira",
+        "description": "Manutenção de celulares e tablets",
+        "email": "macielreginaldo@hotmail.com",
+        "mobile_phone:repair": "yes",
+        "name": "R-Cell",
+        "phone": "+55 15 99626-7446",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3662416,
+          -24.1002571
+        ]
+      },
+      "id": "node/3204586967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3216124071",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bradesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3654207,
+          -24.0988511
+        ]
+      },
+      "id": "node/3216124071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3216124072",
+        "name": "Barbearia do Guanchuma",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657074,
+          -24.0995783
+        ]
+      },
+      "id": "node/3216124072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242455362",
+        "name": "Pousada Pica-pau",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4094533,
+          -24.2677669
+        ]
+      },
+      "id": "node/3242455362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242459650",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "PAROF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4100172,
+          -24.2670957
+        ]
+      },
+      "id": "node/3242459650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242466830",
+        "name": "Pousada Onça-pintada",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4145683,
+          -24.2679503
+        ]
+      },
+      "id": "node/3242466830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242469505",
+        "name": "Pousada Lontra",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4165987,
+          -24.2659843
+        ]
+      },
+      "id": "node/3242469505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242471719",
+        "name": "Pousada Esquilo",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.41639,
+          -24.2669612
+        ]
+      },
+      "id": "node/3242471719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258009101",
+        "alt_name": "Fazenda Paraíso",
+        "name": "Paraiso Eco Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.38276,
+          -24.2436621
+        ]
+      },
+      "id": "node/3258009101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258009102",
+        "name": "Paraiso Eco Park",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3772305,
+          -24.2339351
+        ]
+      },
+      "id": "node/3258009102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258009107",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3767945,
+          -24.2335731
+        ]
+      },
+      "id": "node/3258009107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258009108",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3827096,
+          -24.2438405
+        ]
+      },
+      "id": "node/3258009108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3261468111",
+        "name": "Quitanda",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3671721,
+          -24.0993474
+        ]
+      },
+      "id": "node/3261468111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3371746528",
+        "amenity": "fast_food",
+        "name": "Central Lanches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3650862,
+          -24.099208
+        ]
+      },
+      "id": "node/3371746528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3373406837",
+        "name": "Estância Andrade",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3596851,
+          -24.1817784
+        ]
+      },
+      "id": "node/3373406837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3428894534",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.362932,
+          -24.0977068
+        ]
+      },
+      "id": "node/3428894534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3428894537",
+        "name": "Loja da Eva",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3640011,
+          -24.0994856
+        ]
+      },
+      "id": "node/3428894537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3428894538",
+        "name": "Mercearia Souza",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3630104,
+          -24.0986489
+        ]
+      },
+      "id": "node/3428894538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3428894539",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3650253,
+          -24.0982367
+        ]
+      },
+      "id": "node/3428894539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3440965630",
+        "name": "Construkido",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3652547,
+          -24.099545
+        ]
+      },
+      "id": "node/3440965630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3461467106",
+        "name": "Bicicletaria do Nelsinho",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3663026,
+          -24.1011503
+        ]
+      },
+      "id": "node/3461467106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3468644811",
+        "name": "Serralheria do Serginho",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3328158,
+          -24.1214725
+        ]
+      },
+      "id": "node/3468644811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3473481237",
+        "name": "Bicho no Capricho",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3665127,
+          -24.1004064
+        ]
+      },
+      "id": "node/3473481237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3530597646",
+        "name": "Agro Andrade",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3647724,
+          -24.0975971
+        ]
+      },
+      "id": "node/3530597646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3530597648",
+        "name": "Duda Modas",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3647057,
+          -24.0976593
+        ]
+      },
+      "id": "node/3530597648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3617522409",
+        "name": "Quitanda",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3658769,
+          -24.0993196
+        ]
+      },
+      "id": "node/3617522409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3689943637",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3513829,
+          -24.1455154
+        ]
+      },
+      "id": "node/3689943637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3695372904",
+        "name": "Alambique do Antonio Vaz",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3836155,
+          -24.1613158
+        ]
+      },
+      "id": "node/3695372904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3695372905",
+        "name": "Mercearia do Antonio Vaz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3836981,
+          -24.1611848
+        ]
+      },
+      "id": "node/3695372905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3695377127",
+        "name": "Doce de cana",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3834185,
+          -24.1614841
+        ]
+      },
+      "id": "node/3695377127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697406946",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.365698,
+          -24.1001131
+        ]
+      },
+      "id": "node/3697406946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697406949",
+        "name": "Loja 4 Estações",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3659997,
+          -24.0998631
+        ]
+      },
+      "id": "node/3697406949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697406950",
+        "name": "Loja da Eliana",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3658198,
+          -24.0996663
+        ]
+      },
+      "id": "node/3697406950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697406952",
+        "name": "Vanda Proença",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657636,
+          -24.0998014
+        ]
+      },
+      "id": "node/3697406952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697409193",
+        "name": "Foto Center",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3658079,
+          -24.0992592
+        ]
+      },
+      "id": "node/3697409193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697416226",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3651113,
+          -24.1000641
+        ]
+      },
+      "id": "node/3697416226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697416227",
+        "name": "Solange Cabeleireira",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3649209,
+          -24.1005738
+        ]
+      },
+      "id": "node/3697416227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3697416228",
+        "name": "Vidraçaria Tomé",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3650226,
+          -24.100277
+        ]
+      },
+      "id": "node/3697416228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3700939077",
+        "name": "Loja Mariza",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3660513,
+          -24.0993712
+        ]
+      },
+      "id": "node/3700939077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3700954066",
+        "name": "Construchita",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3662848,
+          -24.1013548
+        ]
+      },
+      "id": "node/3700954066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3700954067",
+        "amenity": "fast_food",
+        "name": "Paulinho Salgados",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3663378,
+          -24.1010891
+        ]
+      },
+      "id": "node/3700954067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3701764348",
+        "name": "Padaria Vitória",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.363907,
+          -24.0986895
+        ]
+      },
+      "id": "node/3701764348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3714077409",
+        "name": "Ferreiro",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3659312,
+          -24.0981414
+        ]
+      },
+      "id": "node/3714077409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726316780",
+        "name": "Mercearia Bruno Favero",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3725569,
+          -24.0962413
+        ]
+      },
+      "id": "node/3726316780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726441525",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3671193,
+          -24.0992919
+        ]
+      },
+      "id": "node/3726441525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3749274612",
+        "name": "Loja Carisma",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657801,
+          -24.0997813
+        ]
+      },
+      "id": "node/3749274612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3860603596",
+        "description": "SGS Materiais de Construção",
+        "name": "SGS",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3641117,
+          -24.0962313
+        ]
+      },
+      "id": "node/3860603596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876273932",
+        "produce": "cheese;chicken",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3846177,
+          -24.1578922
+        ]
+      },
+      "id": "node/3876273932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884995475",
+        "description": "Informática e eletrônicos",
+        "name": "Cross",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657675,
+          -24.0992214
+        ]
+      },
+      "id": "node/3884995475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884995476",
+        "addr:street": "Praça Bom Jesus",
+        "name": "Lotérica Sorte Grande",
+        "operator": "Caixa Econômica Federal",
+        "shop": "lottery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3654474,
+          -24.0995231
+        ]
+      },
+      "id": "node/3884995476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884995538",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3658467,
+          -24.0992892
+        ]
+      },
+      "id": "node/3884995538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884999115",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Sabor e Arte",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3652995,
+          -24.0986473
+        ]
+      },
+      "id": "node/3884999115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4073690729",
+        "name": "Comercial França",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.395687,
+          -24.068266
+        ]
+      },
+      "id": "node/4073690729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4073690730",
+        "name": "França Materiais de Construção",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3963752,
+          -24.0681453
+        ]
+      },
+      "id": "node/4073690730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075559594",
+        "amenity": "restaurant",
+        "phone": "15997379411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3653941,
+          -24.0995932
+        ]
+      },
+      "id": "node/4075559594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4434251869",
+        "name": "Mercado Xarol",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3688068,
+          -24.1298638
+        ]
+      },
+      "id": "node/4434251869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4541037426",
+        "description": "Encomendas de bolos, Doces finos e tradicionais",
+        "name": "DocEdna Bolos e Doces",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3651875,
+          -24.0973621
+        ]
+      },
+      "id": "node/4541037426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714011190",
+        "addr:postcode": "18315000",
+        "addr:street": "Rodovia Padre Arlindo Vieira",
+        "name": "Defumados Assumpção",
+        "name:pt": "Defumados Assumpção",
+        "opening_hours": "Mo-Fr",
+        "phone": "015996710491",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3811013,
+          -24.0866095
+        ]
+      },
+      "id": "node/4714011190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818400372",
+        "name": "Quitanda Maciel",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657666,
+          -24.0996057
+        ]
+      },
+      "id": "node/4818400372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855696659",
+        "addr:housenumber": "580",
+        "addr:postcode": "18315000",
+        "addr:street": "Avenida Paulino Ferreira de Assumpção",
+        "addr:suburb": "Nunes",
+        "beds": "7",
+        "email": "afogabri@gmail.com",
+        "name": "Chácara do Camilo",
+        "phone": "+5515997034040",
+        "rooms": "2",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3727719,
+          -24.0968674
+        ]
+      },
+      "id": "node/4855696659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912962966",
+        "name": "Leitão Motos",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3641846,
+          -24.0960233
+        ]
+      },
+      "id": "node/4912962966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912962975",
+        "name": "Luizinho",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3642718,
+          -24.0969991
+        ]
+      },
+      "id": "node/4912962975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4944543801",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3965027,
+          -24.069674
+        ]
+      },
+      "id": "node/4944543801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966540273",
+        "amenity": "restaurant",
+        "name": "Restaurante da Neide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4169664,
+          -24.2566166
+        ]
+      },
+      "id": "node/4966540273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4971071019",
+        "shop": "tyres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3661357,
+          -24.1016173
+        ]
+      },
+      "id": "node/4971071019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5011973272",
+        "addr:housenumber": "26",
+        "addr:street": "Praça Bom Jesus",
+        "addr:suburb": "Centro",
+        "contact:phone": "+551535441168;+5515996088426",
+        "name": "Adega Duardinho",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3657391,
+          -24.0995892
+        ]
+      },
+      "id": "node/5011973272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052000061",
+        "name": "Katia Cabeleireira",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3918826,
+          -24.0674992
+        ]
+      },
+      "id": "node/5052000061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052000062",
+        "name": "Tendas Peteleco",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.391141,
+          -24.0677429
+        ]
+      },
+      "id": "node/5052000062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052033857",
+        "name": "Nica",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3950222,
+          -24.0679401
+        ]
+      },
+      "id": "node/5052033857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052076741",
+        "name": "Luiza Cabeleireira e Costureira",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3954502,
+          -24.0679914
+        ]
+      },
+      "id": "node/5052076741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053507393",
+        "name": "Juliana Cabeleireira",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3661401,
+          -24.0981783
+        ]
+      },
+      "id": "node/5053507393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074644401",
+        "description": "Locação de Brinquedos, Mesas e cadeiras",
+        "name": "LEGADU Locação de Brinquedos, Mesas e Cadeiras",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3652428,
+          -24.0973566
+        ]
+      },
+      "id": "node/5074644401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082289513",
+        "addr:housenumber": "540",
+        "addr:street": "Avenida Paulino Ferreira de Assumpção",
+        "addr:suburb": "Nunes",
+        "name": "Chácara Recanto Adonai",
+        "phone": "+55 15 997974864",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3714019,
+          -24.0988003
+        ]
+      },
+      "id": "node/5082289513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082293789",
+        "name": "Chácara Olga",
+        "phone": "+55 15 996419533",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3561474,
+          -24.1158117
+        ]
+      },
+      "id": "node/5082293789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5171545957",
+        "addr:street": "Rua da Tapera",
+        "name": "Rogério Motos",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3950656,
+          -24.0774541
+        ]
+      },
+      "id": "node/5171545957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5171568193",
+        "name": "Padaria do Leandro",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.392989,
+          -24.0735663
+        ]
+      },
+      "id": "node/5171568193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5234638114",
+        "name": "EMAÚS",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3635947,
+          -24.097729
+        ]
+      },
+      "id": "node/5234638114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5364016446",
+        "name": "Chácara Pôr do Sol",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3772954,
+          -24.0922945
+        ]
+      },
+      "id": "node/5364016446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5364067058",
+        "name": "Chácara Lafant",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3786137,
+          -24.1103024
+        ]
+      },
+      "id": "node/5364067058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5378223208",
+        "alt_name": "Cantinho da Cana",
+        "description": "Venda de garapa, caldo de cana. Vende-se também espetinhos de churrasco.",
+        "name": "Kantinho da Kana",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3671288,
+          -24.0998267
+        ]
+      },
+      "id": "node/5378223208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5427343147",
+        "amenity": "fast_food",
+        "name": "Loucos por Açaí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3654875,
+          -24.098891
+        ]
+      },
+      "id": "node/5427343147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5437781892",
+        "amenity": "fast_food",
+        "name": "Sabiá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.365926,
+          -24.0997407
+        ]
+      },
+      "id": "node/5437781892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5881513540",
+        "name": "Ramos",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3652681,
+          -24.0985858
+        ]
+      },
+      "id": "node/5881513540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5881513541",
+        "name": "Quitanda Maria Gabré",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3643239,
+          -24.0987523
+        ]
+      },
+      "id": "node/5881513541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915934966",
+        "addr:housenumber": "304",
+        "addr:street": "Rua Francisco Phelippe de Lima",
+        "contact:facebook": "https://www.facebook.com/pages/Oficina-Fabinho-Carioca/281208275258379",
+        "email": "fabinhocarioca@hotmail.com",
+        "name": "Oficina Fabinho Carioca",
+        "phone": "+5515997254466",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:painting": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3665693,
+          -24.0979648
+        ]
+      },
+      "id": "node/5915934966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915934967",
+        "addr:housenumber": "304",
+        "addr:street": "Rua Francisco Phelippe de Lima",
+        "description": "Vistoria cautelar, Carro, Moto, Caminhão. Laudo para transferência de veículos.",
+        "name": "Supervisão Vistorias",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00",
+        "phone": "+5515997254466",
+        "service:vehicle:suspension": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3667202,
+          -24.0980467
+        ]
+      },
+      "id": "node/5915934967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6079457351",
+        "addr:housenumber": "269",
+        "addr:street": "Rua Francisco Nunes",
+        "addr:suburb": "Raia",
+        "name": "Padaria Real",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3631596,
+          -24.0985722
+        ]
+      },
+      "id": "node/6079457351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6134910032",
+        "name": "Quitanda Mendes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.363939,
+          -24.0996287
+        ]
+      },
+      "id": "node/6134910032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6406689598",
+        "addr:housenumber": "0",
+        "addr:postcode": "18315000",
+        "addr:street": "Rua Maria Madalena",
+        "addr:suburb": "Boa Vista",
+        "name": "Pousada do Jairo Boa Vista",
+        "phone": "+5515998013018",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.422975,
+          -24.2282444
+        ]
+      },
+      "id": "node/6406689598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6651678010",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3633213,
+          -24.0982125
+        ]
+      },
+      "id": "node/6651678010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6651678011",
+        "name": "Mercearia Max",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3642314,
+          -24.0956138
+        ]
+      },
+      "id": "node/6651678011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6658524361",
+        "name": "Mini Mercado Oliveira",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3992519,
+          -24.1301828
+        ]
+      },
+      "id": "node/6658524361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6658614084",
+        "name": "Salão da Elaine",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3717765,
+          -24.1085621
+        ]
+      },
+      "id": "node/6658614084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6808456459",
+        "name": "Velório Santa Luzia",
+        "operator": "Grupo Sanches",
+        "shop": "funeral_directors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3650296,
+          -24.1007463
+        ]
+      },
+      "id": "node/6808456459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032361956",
+        "craft": "locksmith",
+        "name": "Chama o Marcos",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.36588,
+          -24.0984439
+        ]
+      },
+      "id": "node/8032361956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032361957",
+        "name": "Rações Ferreira",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3660228,
+          -24.1005398
+        ]
+      },
+      "id": "node/8032361957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032361958",
+        "name": "Salão da Cris",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3669126,
+          -24.0988271
+        ]
+      },
+      "id": "node/8032361958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032361966",
+        "name": "Letycia Modas",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3669927,
+          -24.0994512
+        ]
+      },
+      "id": "node/8032361966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032361967",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3655572,
+          -24.0989905
+        ]
+      },
+      "id": "node/8032361967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040343485",
+        "description": "Comércio de Aves, ovos, suínos e bovinos",
+        "name": "Bueno",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3660711,
+          -24.1004901
+        ]
+      },
+      "id": "node/8040343485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8443836806",
+        "addr:city": "Ribeirão Grande",
+        "addr:housenumber": "360",
+        "addr:postcode": "18315-000",
+        "addr:street": "Rua Francisco Nunes",
+        "internet_access": "wlan",
+        "name": "Barbearia Los Caveiras",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "operator": "Bombril",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:pix": "yes",
+        "phone": "+5515998172246",
+        "shop": "hairdresser",
+        "website": "www.facebook.com/barbearialoscaveiras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3623469,
+          -24.0982977
+        ]
+      },
+      "id": "node/8443836806"
+    }
+  ]
+}
