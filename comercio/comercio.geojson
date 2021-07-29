@@ -1,122 +1,2077 @@
+
 {
-"type": "FeatureCollection",
-"name": "comercio",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "X": -48.361643127519699, "Y": -24.0969916031342, "name": "Posto Trevo", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.361643127519699, -24.0969916031342 ] } },
-{ "type": "Feature", "properties": { "X": -48.345277229438103, "Y": -24.118528201928399, "name": "Estância Oliveira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.345277229438103, -24.118528201928399 ] } },
-{ "type": "Feature", "properties": { "X": -48.410872554040601, "Y": -24.2653690002304, "name": "Casa Técnica", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.410872554040601, -24.2653690002304 ] } },
-{ "type": "Feature", "properties": { "X": -48.36554105, "Y": -24.09956135, "name": "Balaio", "description": "rojao.do.balaio@hotmail.com | https:\/\/www.facebook.com\/pg\/rojaodo.balaio\/" }, "geometry": { "type": "Point", "coordinates": [ -48.36554105, -24.09956135 ] } },
-{ "type": "Feature", "properties": { "X": -48.3646256556815, "Y": -24.094943450166799, "name": "Centro Automotivo Afonso", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3646256556815, -24.094943450166799 ] } },
-{ "type": "Feature", "properties": { "X": -48.367033967078399, "Y": -24.0990642454835, "name": "Marcelo Móveis", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.367033967078399, -24.0990642454835 ] } },
-{ "type": "Feature", "properties": { "X": -48.366655989161401, "Y": -24.099986454582002, "name": "2M Supermercado", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.366655989161401, -24.099986454582002 ] } },
-{ "type": "Feature", "properties": { "X": -48.371608117504998, "Y": -24.108515389226501, "name": "Mercearia AVC", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.371608117504998, -24.108515389226501 ] } },
-{ "type": "Feature", "properties": { "X": -48.366253059181602, "Y": -24.100872678581599, "name": "Mercado Martins", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.366253059181602, -24.100872678581599 ] } },
-{ "type": "Feature", "properties": { "X": -48.366270982502201, "Y": -24.101013299531399, "name": "RG Móveis", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.366270982502201, -24.101013299531399 ] } },
-{ "type": "Feature", "properties": { "X": -48.3658192376828, "Y": -24.099082891377101, "name": "Parof", "description": "sorveteria_parof@hotmail.com" }, "geometry": { "type": "Point", "coordinates": [ -48.3658192376828, -24.099082891377101 ] } },
-{ "type": "Feature", "properties": { "X": -48.3665507, "Y": -24.10071125, "name": "Helo Presentes", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3665507, -24.10071125 ] } },
-{ "type": "Feature", "properties": { "X": -48.398923926092699, "Y": -24.1325525494819, "name": "Mercearia Vaz", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.398923926092699, -24.1325525494819 ] } },
-{ "type": "Feature", "properties": { "X": -48.363392099528902, "Y": -24.0971106112416, "name": "Auto Elétrica São Cristóvão", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.363392099528902, -24.0971106112416 ] } },
-{ "type": "Feature", "properties": { "X": -48.364904312590703, "Y": -24.098549022981999, "name": "Comercial Ribeirão", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.364904312590703, -24.098549022981999 ] } },
-{ "type": "Feature", "properties": { "X": -48.370923350645597, "Y": -24.1081573998556, "name": "Comercial Vitória", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.370923350645597, -24.1081573998556 ] } },
-{ "type": "Feature", "properties": { "X": -48.368126703993703, "Y": -24.100483650067702, "name": "AutoCar Oficina", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.368126703993703, -24.100483650067702 ] } },
-{ "type": "Feature", "properties": { "X": -48.3674456, "Y": -24.099865473832001, "name": "Rações 2M", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3674456, -24.099865473832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3663077, "Y": -24.101413973831999, "name": "Adega", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3663077, -24.101413973831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3653979, "Y": -24.098793473832, "name": "Drogaria do Camilo", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3653979, -24.098793473832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3659555, "Y": -24.099409873831998, "name": "Casa Ferreira", "description": "dirceu.rogerio@gmail.com" }, "geometry": { "type": "Point", "coordinates": [ -48.3659555, -24.099409873831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3517395, "Y": -24.146387073831999, "name": "2M Supermercado", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3517395, -24.146387073831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3660573, "Y": -24.099602473832, "name": "Padaria Sagrada Família Brisolla", "description": "cassianobrisolla@hotmail.com" }, "geometry": { "type": "Point", "coordinates": [ -48.3660573, -24.099602473832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3697665, "Y": -24.100027273832001, "name": "Mercado Arco-Íris", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3697665, -24.100027273832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3652706, "Y": -24.096316173832001, "name": "Mecânica Ferreira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3652706, -24.096316173832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3674808, "Y": -24.099797573831999, "name": "Dina", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3674808, -24.099797573831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3676774, "Y": -24.099787473831999, "name": "Ponto Chic", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3676774, -24.099787473831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657296, "Y": -24.097659973831998, "name": "LF Preço Único 1,99", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657296, -24.097659973831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3653473, "Y": -24.098669773832, "name": "Santa Luzia", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3653473, -24.098669773832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3662416, "Y": -24.100257073832001, "name": "R-Cell", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3662416, -24.100257073832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3654207, "Y": -24.098851073832002, "name": "Bradesco", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3654207, -24.098851073832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657074, "Y": -24.099578273832002, "name": "Barbearia do Guanchuma", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657074, -24.099578273832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.4094533, "Y": -24.267766873831999, "name": "Pousada Pica-pau", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.4094533, -24.267766873831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.4100172, "Y": -24.267095673831999, "name": "PAROF", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.4100172, -24.267095673831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.4145683, "Y": -24.267950273832, "name": "Pousada Onça-pintada", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.4145683, -24.267950273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.4165987, "Y": -24.265984273832, "name": "Pousada Lontra", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.4165987, -24.265984273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.41639, "Y": -24.266961173832001, "name": "Pousada Esquilo", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.41639, -24.266961173832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.38276, "Y": -24.243662073831999, "name": "Paraiso Eco Lodge", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.38276, -24.243662073831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3772305, "Y": -24.233935073832001, "name": "Paraiso Eco Park", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3772305, -24.233935073832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3671721, "Y": -24.099347373832, "name": "Quitanda", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3671721, -24.099347373832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3650862, "Y": -24.099207973832002, "name": "Central Lanches", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3650862, -24.099207973832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.3596851, "Y": -24.181778373832, "name": "Estância Andrade", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3596851, -24.181778373832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3640011, "Y": -24.099485573831998, "name": "Loja da Eva", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3640011, -24.099485573831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3630104, "Y": -24.098648873832001, "name": "Mercearia Souza", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3630104, -24.098648873832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3652547, "Y": -24.099544973832, "name": "Construkido", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3652547, -24.099544973832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3663026, "Y": -24.101150273832001, "name": "Bicicletaria do Nelsinho", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3663026, -24.101150273832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3328158, "Y": -24.121472473832, "name": "Serralheria do Serginho", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3328158, -24.121472473832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3665127, "Y": -24.100406373832001, "name": "Bicho no Capricho", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3665127, -24.100406373832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3647724, "Y": -24.097597073831999, "name": "Agro Andrade", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3647724, -24.097597073831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3647057, "Y": -24.097659273832001, "name": "Duda Modas", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3647057, -24.097659273832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3658769, "Y": -24.099319573831998, "name": "Quitanda", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3658769, -24.099319573831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3836155, "Y": -24.161315773832001, "name": "Alambique do Antonio Vaz", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3836155, -24.161315773832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3836981, "Y": -24.161184773832002, "name": "Mercearia do Antonio Vaz", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3836981, -24.161184773832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.3834185, "Y": -24.161484073832, "name": "Doce de cana", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3834185, -24.161484073832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3659997, "Y": -24.099863073832001, "name": "Loja 4 Estações", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3659997, -24.099863073832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3658198, "Y": -24.099666273832, "name": "Loja da Eliana", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3658198, -24.099666273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657636, "Y": -24.099801373832001, "name": "Vanda Proença", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657636, -24.099801373832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3658079, "Y": -24.099259173831999, "name": "Foto Center", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3658079, -24.099259173831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3649209, "Y": -24.100573773832, "name": "Solange Cabeleireira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3649209, -24.100573773832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3650226, "Y": -24.100276973831999, "name": "Vidraçaria Tomé", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3650226, -24.100276973831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3660513, "Y": -24.099371173832001, "name": "Loja Mariza", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3660513, -24.099371173832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3662848, "Y": -24.101354773832, "name": "Construchita", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3662848, -24.101354773832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3663378, "Y": -24.101089073832, "name": "Paulinho Salgados", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3663378, -24.101089073832 ] } },
-{ "type": "Feature", "properties": { "X": -48.363907, "Y": -24.098689473832, "name": "Padaria Vitória", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.363907, -24.098689473832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3659312, "Y": -24.098141373832, "name": "Ferreiro", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3659312, -24.098141373832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3725569, "Y": -24.096241273832, "name": "Mercearia Bruno Favero", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3725569, -24.096241273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657801, "Y": -24.099781273832001, "name": "Loja Carisma", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657801, -24.099781273832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3641117, "Y": -24.096231273832, "name": "SGS", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3641117, -24.096231273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657675, "Y": -24.099221373831998, "name": "Cross", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657675, -24.099221373831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3654474, "Y": -24.099523073832, "name": "Lotérica Sorte Grande", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3654474, -24.099523073832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3652995, "Y": -24.098647273832, "name": "Sabor e Arte", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3652995, -24.098647273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.395687, "Y": -24.068265973831998, "name": "Comercial França", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.395687, -24.068265973831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3963752, "Y": -24.068145273831998, "name": "França Materiais de Construção", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3963752, -24.068145273831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3688068, "Y": -24.129863773832, "name": "Mercado Xarol", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3688068, -24.129863773832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3651875, "Y": -24.097362073831999, "name": "DocEdna Bolos e Doces", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3651875, -24.097362073831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3811013, "Y": -24.086609473831999, "name": "Defumados Assumpção", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3811013, -24.086609473831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657666, "Y": -24.099605673831999, "name": "Quitanda Maciel", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657666, -24.099605673831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3727719, "Y": -24.096867373832001, "name": "Chácara do Camilo", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3727719, -24.096867373832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3641846, "Y": -24.096023273831999, "name": "Leitão Motos", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3641846, -24.096023273831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3642718, "Y": -24.096999073831999, "name": "Luizinho", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3642718, -24.096999073831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.4169664, "Y": -24.256616573832002, "name": "Restaurante da Neide", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.4169664, -24.256616573832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.3657391, "Y": -24.099589173832001, "name": "Adega Duardinho", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3657391, -24.099589173832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3918826, "Y": -24.067499173832001, "name": "Katia Cabeleireira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3918826, -24.067499173832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.391141, "Y": -24.067742873832, "name": "Tendas Peteleco", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.391141, -24.067742873832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3950222, "Y": -24.067940073831998, "name": "Nica", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3950222, -24.067940073831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3954502, "Y": -24.067991373832001, "name": "Luiza Cabeleireira e Costureira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3954502, -24.067991373832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3661401, "Y": -24.098178273832001, "name": "Juliana Cabeleireira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3661401, -24.098178273832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3652428, "Y": -24.097356573831998, "name": "LEGADU Locação de Brinquedos, Mesas e Cadeiras", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3652428, -24.097356573831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3714019, "Y": -24.098800273832001, "name": "Chácara Recanto Adonai", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3714019, -24.098800273832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3561474, "Y": -24.115811673831999, "name": "Chácara Olga", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3561474, -24.115811673831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3950656, "Y": -24.077454073832001, "name": "Rogério Motos", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3950656, -24.077454073832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.392989, "Y": -24.073566273832, "name": "Padaria do Leandro", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.392989, -24.073566273832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3635947, "Y": -24.097728973832002, "name": "EMAÚS", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3635947, -24.097728973832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.3772954, "Y": -24.092294473831998, "name": "Chácara Pôr do Sol", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3772954, -24.092294473831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3786137, "Y": -24.110302373831999, "name": "Chácara Lafant", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3786137, -24.110302373831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3671288, "Y": -24.099826673831998, "name": "Kantinho da Kana", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3671288, -24.099826673831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3654875, "Y": -24.098890973831999, "name": "Loucos por Açaí", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3654875, -24.098890973831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.365926, "Y": -24.099740673831999, "name": "Sabiá", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.365926, -24.099740673831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3652681, "Y": -24.098585773831999, "name": "Ramos", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3652681, -24.098585773831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3643239, "Y": -24.098752273832002, "name": "Quitanda Maria Gabré", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3643239, -24.098752273832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.3665693, "Y": -24.097964773832, "name": "Oficina Fabinho Carioca", "description": " | https:\/\/www.facebook.com\/pages\/Oficina-Fabinho-Carioca\/281208275258379" }, "geometry": { "type": "Point", "coordinates": [ -48.3665693, -24.097964773832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3667202, "Y": -24.098046673831998, "name": "Supervisão Vistorias", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3667202, -24.098046673831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3631596, "Y": -24.098572173832, "name": "Padaria Real", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3631596, -24.098572173832 ] } },
-{ "type": "Feature", "properties": { "X": -48.363939, "Y": -24.099628673832001, "name": "Quitanda Mendes", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.363939, -24.099628673832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.422975, "Y": -24.228244373831998, "name": "Pousada do Jairo Boa Vista", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.422975, -24.228244373831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3642314, "Y": -24.095613773832, "name": "Mercearia Max", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3642314, -24.095613773832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3992519, "Y": -24.130182773832001, "name": "Mini Mercado Oliveira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3992519, -24.130182773832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3717765, "Y": -24.108562073832001, "name": "Salão da Elaine", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3717765, -24.108562073832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3650296, "Y": -24.100746273832002, "name": "Velório Santa Luzia", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3650296, -24.100746273832002 ] } },
-{ "type": "Feature", "properties": { "X": -48.36588, "Y": -24.098443873832, "name": "Chama o Marcos", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.36588, -24.098443873832 ] } },
-{ "type": "Feature", "properties": { "X": -48.3660228, "Y": -24.100539773832001, "name": "Rações Ferreira", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3660228, -24.100539773832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3669126, "Y": -24.098827073831998, "name": "Salão da Cris", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3669126, -24.098827073831998 ] } },
-{ "type": "Feature", "properties": { "X": -48.3669927, "Y": -24.099451173832001, "name": "Letycia Modas", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3669927, -24.099451173832001 ] } },
-{ "type": "Feature", "properties": { "X": -48.3660711, "Y": -24.100490073831999, "name": "Bueno", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3660711, -24.100490073831999 ] } },
-{ "type": "Feature", "properties": { "X": -48.3623469, "Y": -24.098297673832, "name": "Barbearia Los Caveiras", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -48.3623469, -24.098297673832 ] } }
-]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.361643127519699",
+                "Y": "-24.0969916031342",
+                "description": "",
+                "name": "Posto Trevo",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36164312752,
+                    -24.09699160313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3652681",
+                "Y": "-24.098585773831999",
+                "description": "",
+                "name": "Ramos",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36526810000,
+                    -24.09858577383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657074",
+                "Y": "-24.099578273832002",
+                "description": "",
+                "name": "Barbearia do Guanchuma",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36570740000,
+                    -24.09957827383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3663378",
+                "Y": "-24.101089073832",
+                "description": "",
+                "name": "Paulinho Salgados",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36633780000,
+                    -24.10108907383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3772954",
+                "Y": "-24.092294473831998",
+                "description": "",
+                "name": "Chï¿½cara Pï¿½r do Sol",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37729540000,
+                    -24.09229447383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3676774",
+                "Y": "-24.099787473831999",
+                "description": "",
+                "name": "Ponto Chic",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36767740000,
+                    -24.09978747383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3658079",
+                "Y": "-24.099259173831999",
+                "description": "",
+                "name": "Foto Center",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36580790000,
+                    -24.09925917383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3714019",
+                "Y": "-24.098800273832001",
+                "description": "",
+                "name": "Chï¿½cara Recanto Adonai",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37140190000,
+                    -24.09880027383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3517395",
+                "Y": "-24.146387073831999",
+                "description": "",
+                "name": "2M Supermercado",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35173950000,
+                    -24.14638707383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3836981",
+                "Y": "-24.161184773832002",
+                "description": "",
+                "name": "Mercearia do Antonio Vaz",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.38369810000,
+                    -24.16118477383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.391141",
+                "Y": "-24.067742873832",
+                "description": "",
+                "name": "Tendas Peteleco",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39114100000,
+                    -24.06774287383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.368126703993703",
+                "Y": "-24.100483650067702",
+                "description": "",
+                "name": "AutoCar Oficina",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36812670399,
+                    -24.10048365007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3623469",
+                "Y": "-24.098297673832",
+                "description": "",
+                "name": "Barbearia Los Caveiras",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36234690000,
+                    -24.09829767383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3665127",
+                "Y": "-24.100406373832001",
+                "description": "",
+                "name": "Bicho no Capricho",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36651270000,
+                    -24.10040637383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3641846",
+                "Y": "-24.096023273831999",
+                "description": "",
+                "name": "Leitï¿½o Motos",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36418460000,
+                    -24.09602327383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3665507",
+                "Y": "-24.10071125",
+                "description": "",
+                "name": "Helo Presentes",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36655070000,
+                    -24.10071125000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.36588",
+                "Y": "-24.098443873832",
+                "description": "",
+                "name": "Chama o Marcos",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36588000000,
+                    -24.09844387383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3640011",
+                "Y": "-24.099485573831998",
+                "description": "",
+                "name": "Loja da Eva",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36400110000,
+                    -24.09948557383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3688068",
+                "Y": "-24.129863773832",
+                "description": "",
+                "name": "Mercado Xarol",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36880680000,
+                    -24.12986377383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.366655989161401",
+                "Y": "-24.099986454582002",
+                "description": "",
+                "name": "2M Supermercado",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36665598916,
+                    -24.09998645458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.36554105",
+                "Y": "-24.09956135",
+                "description": "rojao.do.balaio@hotmail.com | https://www.facebook.com/pg/rojaodo.balaio/",
+                "name": "Balaio",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36554105000,
+                    -24.09956135000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.422975",
+                "Y": "-24.228244373831998",
+                "description": "",
+                "name": "Pousada do Jairo Boa Vista",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.42297500000,
+                    -24.22824437383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3667202",
+                "Y": "-24.098046673831998",
+                "description": "",
+                "name": "Supervisï¿½o Vistorias",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36672020000,
+                    -24.09804667383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.4145683",
+                "Y": "-24.267950273832",
+                "description": "",
+                "name": "Pousada Onï¿½a-pintada",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41456830000,
+                    -24.26795027383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3725569",
+                "Y": "-24.096241273832",
+                "description": "",
+                "name": "Mercearia Bruno Favero",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37255690000,
+                    -24.09624127383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3654875",
+                "Y": "-24.098890973831999",
+                "description": "",
+                "name": "Loucos por Aï¿½aï¿½",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36548750000,
+                    -24.09889097383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3662416",
+                "Y": "-24.100257073832001",
+                "description": "",
+                "name": "R-Cell",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36624160000,
+                    -24.10025707383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3660513",
+                "Y": "-24.099371173832001",
+                "description": "",
+                "name": "Loja Mariza",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36605130000,
+                    -24.09937117383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.392989",
+                "Y": "-24.073566273832",
+                "description": "",
+                "name": "Padaria do Leandro",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39298900000,
+                    -24.07356627383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3652706",
+                "Y": "-24.096316173832001",
+                "description": "",
+                "name": "Mecï¿½nica Ferreira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36527060000,
+                    -24.09631617383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3658198",
+                "Y": "-24.099666273832",
+                "description": "",
+                "name": "Loja da Eliana",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36581980000,
+                    -24.09966627383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3661401",
+                "Y": "-24.098178273832001",
+                "description": "",
+                "name": "Juliana Cabeleireira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36614010000,
+                    -24.09817827383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3653979",
+                "Y": "-24.098793473832",
+                "description": "",
+                "name": "Drogaria do Camilo",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36539790000,
+                    -24.09879347383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3658769",
+                "Y": "-24.099319573831998",
+                "description": "",
+                "name": "Quitanda",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36587690000,
+                    -24.09931957383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657391",
+                "Y": "-24.099589173832001",
+                "description": "",
+                "name": "Adega Duardinho",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36573910000,
+                    -24.09958917383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.364904312590703",
+                "Y": "-24.098549022981999",
+                "description": "",
+                "name": "Comercial Ribeirï¿½o",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36490431259,
+                    -24.09854902298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3669927",
+                "Y": "-24.099451173832001",
+                "description": "",
+                "name": "Letycia Modas",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36699270000,
+                    -24.09945117383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3663026",
+                "Y": "-24.101150273832001",
+                "description": "",
+                "name": "Bicicletaria do Nelsinho",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36630260000,
+                    -24.10115027383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657666",
+                "Y": "-24.099605673831999",
+                "description": "",
+                "name": "Quitanda Maciel",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36576660000,
+                    -24.09960567383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.366270982502201",
+                "Y": "-24.101013299531399",
+                "description": "",
+                "name": "RG Mï¿½veis",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36627098250,
+                    -24.10101329953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3717765",
+                "Y": "-24.108562073832001",
+                "description": "",
+                "name": "Salï¿½o da Elaine",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37177650000,
+                    -24.10856207383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3650862",
+                "Y": "-24.099207973832002",
+                "description": "",
+                "name": "Central Lanches",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36508620000,
+                    -24.09920797383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.38276",
+                "Y": "-24.243662073831999",
+                "description": "",
+                "name": "Paraiso Eco Lodge",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.38276000000,
+                    -24.24366207383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.395687",
+                "Y": "-24.068265973831998",
+                "description": "",
+                "name": "Comercial Franï¿½a",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39568700000,
+                    -24.06826597383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657675",
+                "Y": "-24.099221373831998",
+                "description": "",
+                "name": "Cross",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36576750000,
+                    -24.09922137383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3631596",
+                "Y": "-24.098572173832",
+                "description": "",
+                "name": "Padaria Real",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36315960000,
+                    -24.09857217383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.345277229438103",
+                "Y": "-24.118528201928399",
+                "description": "",
+                "name": "Estï¿½ncia Oliveira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34527722944,
+                    -24.11852820193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3643239",
+                "Y": "-24.098752273832002",
+                "description": "",
+                "name": "Quitanda Maria Gabrï¿½",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36432390000,
+                    -24.09875227383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.4094533",
+                "Y": "-24.267766873831999",
+                "description": "",
+                "name": "Pousada Pica-pau",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.40945330000,
+                    -24.26776687383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.363907",
+                "Y": "-24.098689473832",
+                "description": "",
+                "name": "Padaria Vitï¿½ria",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36390700000,
+                    -24.09868947383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3786137",
+                "Y": "-24.110302373831999",
+                "description": "",
+                "name": "Chï¿½cara Lafant",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37861370000,
+                    -24.11030237383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657296",
+                "Y": "-24.097659973831998",
+                "description": "",
+                "name": "LF Preï¿½o ï¿½nico 1,99",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36572960000,
+                    -24.09765997383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3649209",
+                "Y": "-24.100573773832",
+                "description": "",
+                "name": "Solange Cabeleireira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36492090000,
+                    -24.10057377383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3561474",
+                "Y": "-24.115811673831999",
+                "description": "",
+                "name": "Chï¿½cara Olga",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35614740000,
+                    -24.11581167383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3660573",
+                "Y": "-24.099602473832",
+                "description": "cassianobrisolla@hotmail.com",
+                "name": "Padaria Sagrada Famï¿½lia Brisolla",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36605730000,
+                    -24.09960247383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3834185",
+                "Y": "-24.161484073832",
+                "description": "",
+                "name": "Doce de cana",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.38341850000,
+                    -24.16148407383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3950222",
+                "Y": "-24.067940073831998",
+                "description": "",
+                "name": "Nica",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39502220000,
+                    -24.06794007383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3674456",
+                "Y": "-24.099865473832001",
+                "description": "",
+                "name": "Raï¿½ï¿½es 2M",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36744560000,
+                    -24.09986547383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3647724",
+                "Y": "-24.097597073831999",
+                "description": "",
+                "name": "Agro Andrade",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36477240000,
+                    -24.09759707383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3642718",
+                "Y": "-24.096999073831999",
+                "description": "",
+                "name": "Luizinho",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36427180000,
+                    -24.09699907383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.398923926092699",
+                "Y": "-24.1325525494819",
+                "description": "",
+                "name": "Mercearia Vaz",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39892392609,
+                    -24.13255254948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3660228",
+                "Y": "-24.100539773832001",
+                "description": "",
+                "name": "Raï¿½ï¿½es Ferreira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36602280000,
+                    -24.10053977383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3630104",
+                "Y": "-24.098648873832001",
+                "description": "",
+                "name": "Mercearia Souza",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36301040000,
+                    -24.09864887383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3651875",
+                "Y": "-24.097362073831999",
+                "description": "",
+                "name": "DocEdna Bolos e Doces",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36518750000,
+                    -24.09736207383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.371608117504998",
+                "Y": "-24.108515389226501",
+                "description": "",
+                "name": "Mercearia AVC",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37160811751,
+                    -24.10851538923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3646256556815",
+                "Y": "-24.094943450166799",
+                "description": "",
+                "name": "Centro Automotivo Afonso",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36462565568,
+                    -24.09494345017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3772305",
+                "Y": "-24.233935073832001",
+                "description": "",
+                "name": "Paraiso Eco Park",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37723050000,
+                    -24.23393507383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3642314",
+                "Y": "-24.095613773832",
+                "description": "",
+                "name": "Mercearia Max",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36423140000,
+                    -24.09561377383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.4165987",
+                "Y": "-24.265984273832",
+                "description": "",
+                "name": "Pousada Lontra",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41659870000,
+                    -24.26598427383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657801",
+                "Y": "-24.099781273832001",
+                "description": "",
+                "name": "Loja Carisma",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36578010000,
+                    -24.09978127383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.365926",
+                "Y": "-24.099740673831999",
+                "description": "",
+                "name": "Sabiï¿½",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36592600000,
+                    -24.09974067383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3654207",
+                "Y": "-24.098851073832002",
+                "description": "",
+                "name": "Bradesco",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36542070000,
+                    -24.09885107383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3662848",
+                "Y": "-24.101354773832",
+                "description": "",
+                "name": "Construchita",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36628480000,
+                    -24.10135477383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3635947",
+                "Y": "-24.097728973832002",
+                "description": "",
+                "name": "EMAï¿½S",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36359470000,
+                    -24.09772897383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3674808",
+                "Y": "-24.099797573831999",
+                "description": "",
+                "name": "Dina",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36748080000,
+                    -24.09979757383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3657636",
+                "Y": "-24.099801373832001",
+                "description": "",
+                "name": "Vanda Proenï¿½a",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36576360000,
+                    -24.09980137383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3652428",
+                "Y": "-24.097356573831998",
+                "description": "",
+                "name": "LEGADU Locaï¿½ï¿½o de Brinquedos, Mesas e Cadeiras",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36524280000,
+                    -24.09735657383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3659555",
+                "Y": "-24.099409873831998",
+                "description": "dirceu.rogerio@gmail.com",
+                "name": "Casa Ferreira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36595550000,
+                    -24.09940987383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3836155",
+                "Y": "-24.161315773832001",
+                "description": "",
+                "name": "Alambique do Antonio Vaz",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.38361550000,
+                    -24.16131577383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3918826",
+                "Y": "-24.067499173832001",
+                "description": "",
+                "name": "Katia Cabeleireira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39188260000,
+                    -24.06749917383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.370923350645597",
+                "Y": "-24.1081573998556",
+                "description": "",
+                "name": "Comercial Vitï¿½ria",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37092335065,
+                    -24.10815739986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3660711",
+                "Y": "-24.100490073831999",
+                "description": "",
+                "name": "Bueno",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36607110000,
+                    -24.10049007383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3328158",
+                "Y": "-24.121472473832",
+                "description": "",
+                "name": "Serralheria do Serginho",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.33281580000,
+                    -24.12147247383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3727719",
+                "Y": "-24.096867373832001",
+                "description": "",
+                "name": "Chï¿½cara do Camilo",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.37277190000,
+                    -24.09686737383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3658192376828",
+                "Y": "-24.099082891377101",
+                "description": "sorveteria_parof@hotmail.com",
+                "name": "Parof",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36581923768,
+                    -24.09908289138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3650296",
+                "Y": "-24.100746273832002",
+                "description": "",
+                "name": "Velï¿½rio Santa Luzia",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36502960000,
+                    -24.10074627383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3596851",
+                "Y": "-24.181778373832",
+                "description": "",
+                "name": "Estï¿½ncia Andrade",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.35968510000,
+                    -24.18177837383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3963752",
+                "Y": "-24.068145273831998",
+                "description": "",
+                "name": "Franï¿½a Materiais de Construï¿½ï¿½o",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39637520000,
+                    -24.06814527383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3654474",
+                "Y": "-24.099523073832",
+                "description": "",
+                "name": "Lotï¿½rica Sorte Grande",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36544740000,
+                    -24.09952307383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.410872554040601",
+                "Y": "-24.2653690002304",
+                "description": "",
+                "name": "Casa Tï¿½cnica",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41087255404,
+                    -24.26536900023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.363939",
+                "Y": "-24.099628673832001",
+                "description": "",
+                "name": "Quitanda Mendes",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36393900000,
+                    -24.09962867383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3665693",
+                "Y": "-24.097964773832",
+                "description": " | https://www.facebook.com/pages/Oficina-Fabinho-Carioca/281208275258379",
+                "name": "Oficina Fabinho Carioca",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36656930000,
+                    -24.09796477383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.4100172",
+                "Y": "-24.267095673831999",
+                "description": "",
+                "name": "PAROF",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41001720000,
+                    -24.26709567383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3659312",
+                "Y": "-24.098141373832",
+                "description": "",
+                "name": "Ferreiro",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36593120000,
+                    -24.09814137383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3671288",
+                "Y": "-24.099826673831998",
+                "description": "",
+                "name": "Kantinho da Kana",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36712880000,
+                    -24.09982667383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3653473",
+                "Y": "-24.098669773832",
+                "description": "",
+                "name": "Santa Luzia",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36534730000,
+                    -24.09866977383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3650226",
+                "Y": "-24.100276973831999",
+                "description": "",
+                "name": "Vidraï¿½aria Tomï¿½",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36502260000,
+                    -24.10027697383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3950656",
+                "Y": "-24.077454073832001",
+                "description": "",
+                "name": "Rogï¿½rio Motos",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39506560000,
+                    -24.07745407383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3697665",
+                "Y": "-24.100027273832001",
+                "description": "",
+                "name": "Mercado Arco-ï¿½ris",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36976650000,
+                    -24.10002727383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3659997",
+                "Y": "-24.099863073832001",
+                "description": "",
+                "name": "Loja 4 Estaï¿½ï¿½es",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36599970000,
+                    -24.09986307383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3954502",
+                "Y": "-24.067991373832001",
+                "description": "",
+                "name": "Luiza Cabeleireira e Costureira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39545020000,
+                    -24.06799137383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3663077",
+                "Y": "-24.101413973831999",
+                "description": "",
+                "name": "Adega",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36630770000,
+                    -24.10141397383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3647057",
+                "Y": "-24.097659273832001",
+                "description": "",
+                "name": "Duda Modas",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36470570000,
+                    -24.09765927383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.4169664",
+                "Y": "-24.256616573832002",
+                "description": "",
+                "name": "Restaurante da Neide",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41696640000,
+                    -24.25661657383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.363392099528902",
+                "Y": "-24.0971106112416",
+                "description": "",
+                "name": "Auto Elï¿½trica Sï¿½o Cristï¿½vï¿½o",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36339209953,
+                    -24.09711061124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3669126",
+                "Y": "-24.098827073831998",
+                "description": "",
+                "name": "Salï¿½o da Cris",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36691260000,
+                    -24.09882707383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3652547",
+                "Y": "-24.099544973832",
+                "description": "",
+                "name": "Construkido",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36525470000,
+                    -24.09954497383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3811013",
+                "Y": "-24.086609473831999",
+                "description": "",
+                "name": "Defumados Assumpï¿½ï¿½o",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.38110130000,
+                    -24.08660947383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.366253059181602",
+                "Y": "-24.100872678581599",
+                "description": "",
+                "name": "Mercado Martins",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36625305918,
+                    -24.10087267858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3992519",
+                "Y": "-24.130182773832001",
+                "description": "",
+                "name": "Mini Mercado Oliveira",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.39925190000,
+                    -24.13018277383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.367033967078399",
+                "Y": "-24.0990642454835",
+                "description": "",
+                "name": "Marcelo Mï¿½veis",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36703396708,
+                    -24.09906424548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3671721",
+                "Y": "-24.099347373832",
+                "description": "",
+                "name": "Quitanda",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36717210000,
+                    -24.09934737383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.41639",
+                "Y": "-24.266961173832001",
+                "description": "",
+                "name": "Pousada Esquilo",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.41639000000,
+                    -24.26696117383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3652995",
+                "Y": "-24.098647273832",
+                "description": "",
+                "name": "Sabor e Arte",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36529950000,
+                    -24.09864727383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": "-48.3641117",
+                "Y": "-24.096231273832",
+                "description": "",
+                "name": "SGS",
+                "icon": "tags",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.36411170000,
+                    -24.09623127383
+                ]
+            }
+        }
+    ]
 }
